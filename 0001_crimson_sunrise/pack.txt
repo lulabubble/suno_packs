@@ -1,4 +1,4 @@
-PACKAGE v2.3
+PACKAGE v2.4
 
 License: Apache 2.0 — see LICENSE file in this repository.
 Repo: https://github.com/lulabubble/suno_packs
@@ -77,12 +77,12 @@ WORKING LYRICS
 
 [Intro — slow, warm steam, red whispers, wide reverb, distant]
 [whisper] Steam on the window, future in the petals [breath] (oo)
-[pause] Morning on the table, waiting to be free (ah)
+[pause] Morning on the table, red about to bloom (ah)
 
 [Verse 1 — calm, quiet morning, normal time flows, close-mic, dry]
 [close] I wake up to a quiet room [pause] (mm)
 A kettle singing soft and low (oh)
-The clock is moving like it should (ah)
+The clock is moving straight ahead (ah)
 [warm] But in the cup, a deeper red (oo)
 
 [Pre-Chorus 1 — rising water, present tense bends gently, building]
@@ -92,14 +92,14 @@ Present tense begins to bend (oh)
 [Chorus — open, dissolving sunrise, bright red tea, wide reverb]
 [wide] Crimson sunrise, dissolving in the sky (oo)
 [belt] Crimson sunrise, a future in the tea (ah)
-[soft] Time runs straight on the other side (mm)
+[soft] Time runs straight beyond the steam (mm)
 [build] But here it breaks and breathes through me (oh)
 
 [Verse 2 — warm, unknown petals, time about to change, close-mic]
 Hibiscus whispers, petals unknown [pause] (oh)
 [intimate] A flavor from a farther year (mm)
-I taste the moment it will change (oo)
-The old and new become the same (ah)
+I taste the moment of the change (oo)
+The old and new forget their names (ah)
 
 [Pre-Chorus 2 — slightly faster, rising water, present tense begins to blend]
 Pour the water, watch it turn (ah)
@@ -108,7 +108,7 @@ Present tense begins to blend (oh)
 [Chorus — open, dissolving sunrise, bright red tea, wide reverb]
 [wide] Crimson sunrise, dissolving in the sky (oo)
 [belt] Crimson sunrise, the future in the tea (ah)
-[soft] Time runs straight on the other side (mm)
+[soft] Time runs straight beyond the steam (mm)
 [build] Now here it breaks and breathes through me (oh)
 
 [Bridge — fast, no breaths, time breaks, red bloom, dry, close-mic, no reverb]
