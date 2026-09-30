@@ -8,8 +8,8 @@ Path: 0001_crimson_sunrise/pack.txt
 Published: https://suno.com/s/QnqPez5ZnbqUwVrb
 
 REMIX VIA SUNO — SIMPLIFIED:
-Using Suno's built-in Remix tools (Cover / Extend / Reuse /
-Adjust Speed) needs no manual attribution — Suno displays the
+Using Suno's built-in Remix tools (Cover / Mashup) needs no
+
 original track alongside the remix, satisfying CC BY 4.0's
 "reasonable manner" requirement. License URI is in HEADER.
 Outside Suno: credit "lulabubble", link the license, note changes.
