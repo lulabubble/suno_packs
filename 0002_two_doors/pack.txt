@@ -5,7 +5,7 @@ Lyrics © 2026 lulabubble. Licensed under CC BY 4.0.
 https://creativecommons.org/licenses/by/4.0/
 Repo: https://github.com/lulabubble/suno_packs
 Path: 0002_two_doors/pack.txt
-Published: [SUNO SHORT LINK — TO BE FILLED AT PUBLISH]
+Published: https://suno.com/s/vNDtaABa8FuN4539
 Structure: I-V1-PC1-C-V2-PC2-C-B-FC-O
 
 REMIX VIA SUNO:
