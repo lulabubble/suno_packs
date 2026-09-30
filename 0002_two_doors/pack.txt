@@ -1,4 +1,4 @@
-PACKAGE v1.3 (draft)
+PACKAGE v1.4 (draft)
 
 License: CC BY 4.0 — see LICENSE file in this repository.
 Lyrics © 2026 lulabubble. Licensed under CC BY 4.0.
@@ -26,12 +26,16 @@ That alone satisfies CC BY 4.0.
 Remix: delete HEADER, delete APPENDIX, keep WORKING LYRICS only.
 
 Technique: compression mainly in bridge; verses / pre-chorus /
-chorus / intro / outro stay mostly uncompressed (dreamy contrast).
-Bridge: syllable merge, -ing→-in, every→evry, and→an, of→o,
-is→'s, "a" dropped, aggressive vowel removal. Fillers (oo)(ah)(mm)(oh)
-in all sections EXCEPT bridge — that's what makes the bridge
-accelerate. [brackets] = directions, not sung, read by model.
-[ref:] = plain-English helper, not sung.
+chorus / intro stay mostly uncompressed (dreamy contrast).
+Outro uses understatement: the voice decays, words and lines
+are not finished, silence becomes content. Bridge: syllable
+merge, -ing→-in, every→evry, and→an, of→o, is→'s, "a"
+dropped, aggressive vowel removal. Fillers (oo)(ah)(mm)(oh)
+in intro, verses, pre-chorus, chorus — that's what makes
+them breathe. Bridge has no fillers — that's what makes it
+fast. Outro: fillers on the first two lines only; they fade
+with the voice. [brackets] = directions, not sung, read by
+model. [ref:] = plain-English helper, not sung.
 
 AFTER-BRIDGE PRINCIPLE:
 The final chorus is NOT compressed. Compression marks the
@@ -63,7 +67,8 @@ over separately at test-generation time.
 
 TIMING:
 ~4:00 total. Bridge ~0:30 (~12.5%). Final chorus ~0:40.
-Outro ~0:20. Peak sits on final chorus, not on bridge.
+Outro ~0:25 (was ~0:20; extended by decay). Peak sits on
+final chorus, not on bridge.
 
 CHANGELOG FORMAT:
 One line per version (3–4 words) + RESUME paragraph.
@@ -159,10 +164,18 @@ And I am standin here withyou
 [building] I see the life we didn't know
 [bigger] But I would choose this life, this flame
 
-[Outro — slow again, evening hum, tape hiss, fade]
+[Outro — slow, evening hum, tape hiss, fade; voice decays]
 [whisper] You smile, I smile, we turn away (oo)
 [whisper] The glass is clear. (ah)
-[pause] Two doors in the evening glow. (mm)
+[whisper] Two doors in the evening glow
+[trailing] Two doors in the evening... glow... glow...
+[decay] Two doors in the...
+[barely] Two...
+[pause] ...
+[whisper] ...doors...
+[pause] ...
+[barely] ...glow...
+[pause] ...
 
 APPENDIX — DELETE WHEN REMIXING
 
@@ -192,8 +205,19 @@ added harmony, layered vocals. Not a new text. The refrain is
 the same knowledge — the first time as a question, the last
 as a fact.
 
+UNDERSTATEMENT PRINCIPLE (outro):
+The outro does not conclude — it decays. The voice stops
+finishing words, lines, thoughts. Silence becomes content.
+Applied per line: cut at the point where the voice would
+naturally run out. Never lengthen. If a fragment returns,
+it returns smaller. The song stops; it does not end.
+The outro demonstrates the principle — read it as one
+continuous decay, not as separate sections.
+
 NOTES:
 Bridge has no fillers — that is what makes it fast.
+Outro keeps fillers only on the first two lines; they fade
+with the voice and do not return.
 Slower remix: add (oo)(ah)(mm)(oh) back into bridge.
 Faster remix: remove more vowels.
 [brackets] and [ref:] are not sung.
