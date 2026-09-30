@@ -14,6 +14,13 @@ the license URI. So attribution is handled by the link.
 You do: nothing on-platform. Off-platform: credit
 "lulabubble" + link the license.
 
+CASCADE REMIXES:
+Cascade covers/mashups are normal for quality passes.
+If Suno drops the auto-link mid-cascade, use Suno's
+Share short link — it's short, goes anywhere (lyrics,
+caption, description), and links back to the chain.
+That alone satisfies CC BY 4.0.
+
 3 parts: HEADER / WORKING LYRICS / APPENDIX.
 Remix: delete HEADER, delete APPENDIX, keep WORKING LYRICS only.
 
