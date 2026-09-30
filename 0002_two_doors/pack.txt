@@ -1,4 +1,4 @@
-PACKAGE v1.5 (draft)
+PACKAGE v1.6
 
 License: CC BY 4.0 — see LICENSE file in this repository.
 Lyrics © 2026 lulabubble. Licensed under CC BY 4.0.
@@ -9,86 +9,35 @@ Published: [SUNO SHORT LINK — TO BE FILLED AT PUBLISH]
 Structure: I-V1-PC1-C-V2-PC2-C-B-FC-O
 
 REMIX VIA SUNO:
-Suno does: auto-links Cover / Mashup remixes to the
-original track. The original's package header carries
-the license URI. So attribution is handled by the link.
-You do: nothing on-platform. Off-platform: credit
-"lulabubble" + link the license.
-
-CASCADE REMIXES:
-Cascade covers/mashups are normal for quality passes.
-If Suno drops the auto-link mid-cascade, use Suno's
-Share short link — it's short, goes anywhere (lyrics,
-caption, description), and links back to the chain.
-That alone satisfies CC BY 4.0.
+Suno auto-links Cover/Mashup to the original; the original's
+header carries the license URI, so the link is attribution.
+On-platform: nothing. Off-platform: credit "lulabubble" +
+link the license. If Suno drops the auto-link mid-cascade,
+use Suno's Share short link — short, goes anywhere (lyrics,
+caption, description), links back to the chain. Satisfies
+CC BY 4.0.
 
 3 parts: HEADER / WORKING LYRICS / APPENDIX.
 Remix: delete HEADER, delete APPENDIX, keep WORKING LYRICS only.
 
-Technique: compression mainly in bridge; verses / chorus /
-intro stay mostly uncompressed (dreamy contrast). Outro uses
-understatement: the voice decays, words and lines are not
-finished, silence becomes content. Pre-chorus uses voice
-stacking: one voice enters, additional voices accumulate
-line by line, last line is a full stack. Bridge: syllable
-merge, -ing→-in, every→evry, and→an, of→o, is→'s, "a"
-dropped, aggressive vowel removal. Fillers (oo)(ah)(mm)(oh)
-in intro, verses, pre-chorus, chorus — that's what makes
-them breathe. Bridge has no fillers — that's what makes it
-fast. Outro: fillers on the first two lines only; they fade
-with the voice. [brackets] = directions, not sung, read by
-model. [ref:] = plain-English helper, not sung.
+Technique: bridge = compression (syllable merge, -ing→-in,
+every→evry, and→an, of→o, is→'s, "a" dropped, aggressive
+vowel removal). Pre-chorus = voice stacking. Outro =
+understatement (voice decays; silence becomes content). All
+other sections breathe: fillers (oo)(ah)(mm)(oh) present, no
+compression. Bridge has no fillers — that's what makes it
+fast. Outro keeps fillers only on the first two lines.
+[brackets] = directions, not sung. [ref:] = plain-English
+helper, not sung. Service tags assumed NOT SUNG.
 
-AFTER-BRIDGE PRINCIPLE:
-The final chorus is NOT compressed. Compression marks the
-bridge. The final chorus repeats the words of earlier
-choruses verbatim. What changes is delivery, not text.
-The refrain is the same knowledge — earlier as a question,
-last as a fact. Rhythm never changes.
+Operator sends Lyrics as-is. Title and Style handed over
+separately at generation.
 
-INTERNAL STATUS — NOT IN PACKAGE:
-No OPEN/FROZEN/draft labels in WORKING LYRICS; work-state
-lives only in CHANGELOG.
+Timing: ~4:00. Bridge ~0:30 (~12.5%). FC ~0:40, peak.
+Outro ~0:25 (decay).
 
-NO DUPLICATED LISTS:
-Plain-English reference lives inline as [ref:] next to each
-compressed line. Principles state the rule, never enumerate.
-
-TITLE & STYLE — OUT OF PACKAGE:
-Prepared on demand at generation time; not stored here.
-
-SERVICE TAGS — DO NOT PARANOID:
-[brackets] and [ref:] assumed NOT SUNG. If a generation reads
-them aloud, that's a test finding — fix then, not preemptively.
-
-OPERATOR ROLE:
-Operator says WHAT to do, WHAT to listen for, WHAT to send.
-LLM outputs Lyrics ready-to-send; Operator sends as-is.
-No manual merging, retyping, trimming. Title and Style handed
-over separately at test-generation time.
-
-TIMING:
-~4:00 total. Bridge ~0:30 (~12.5%). Final chorus ~0:40.
-Outro ~0:25 (decay tail). Pre-chorus: no added length —
-stacking changes texture, not duration. Peak sits on final
-chorus, not on bridge.
-
-CHANGELOG FORMAT:
-One line per version (3–4 words) + RESUME paragraph.
-
-QUICK-START PROTOCOL:
-Send this package to any LLM. Name your role and target.
-Roles: Creator (owns the track), Operator (runs Suno, relays
-messages), Critic (reviews). For test generations, Operator
-states the focus and asks feedback on exactly that.
-
-TEST NOTE — stripped before remix, not sung:
-A/B on hook line 2 + line 4: run one generation with
-name/flame, one with name/name (line 4 = "this name").
-Compare final chorus only. Default: name/flame.
-Also: listen to voice stacking in pre-chorus — does Suno
-accumulate voices line by line, or flatten all four into
-one loud layer? Does the last line read as a full stack?
+Roles: Creator (owns track), Operator (runs Suno), Critic
+(reviews).
 
 WORKING LYRICS
 
@@ -184,56 +133,45 @@ And I am standin here withyou
 
 APPENDIX — DELETE WHEN REMIXING
 
-PHONETIC PRINCIPLE (bridge):
+PHONETIC / SAFE-VARIANTS (bridge):
 Compressed lines read as one continuous phrase. Removed vowels
-are silent; consonants glue to the next word. The [ref:] line
-above gives intended word breaks — read across without pausing.
-The rhythm never changes: only what the voice would skip anyway.
-Rule of thumb: merge only where a syllable is actually saved.
-One-syllable function words (and, then, I, am) stay separate —
-"andthen" saves nothing and creates a reading risk.
+are silent; consonants glue to the next word. [ref:] above
+gives intended word breaks — read across without pausing. The
+rhythm never changes. Merge only where a syllable is saved.
+One-syllable function words (and, then, I, am) stay separate.
+Merging must not produce a different English word (aversion
+≠ a version); if the merged form is itself a word, drop the
+leading vowel (a version → vrsion). If a model glitches,
+restore the shortest readable form (is → 's → s; "a door" →
+ador → adoor; every → evry). Keep syllable count, keep stress
+pattern. Never lengthen the rhythm. Unzip one letter at a
+time until the glitch clears.
 
-SAFE-VARIANTS PRINCIPLE (bridge):
-If a model glitches, restore the shortest readable form of the
-swallowed word (is → 's → s; "a door" → ador → adoor; every →
-evry). Priorities: keep syllable count, keep stress pattern,
-restore only mis-sung letters. Never lengthen the rhythm. Apply
-per line: "unzip one letter at a time until the glitch clears."
-Merging must not produce a different English word
-(aversion ≠ a version). If the merged form is itself a word,
-drop the leading vowel instead (a version → vrsion).
+AFTER-BRIDGE (final chorus):
+Final chorus repeats earlier choruses verbatim. Only delivery
+changes: belt from the first line, added harmony, layered
+vocals.
 
-AFTER-BRIDGE PRINCIPLE (final chorus):
-The final chorus repeats the words of the earlier choruses
-verbatim. What changes is delivery: belt from the first line,
-added harmony, layered vocals. Not a new text. The refrain is
-the same knowledge — the first time as a question, the last
-as a fact.
+VOICE STACKING (pre-chorus):
+Pre-chorus builds by adding voices, not volume. Line 1 = one
+voice; each next line adds one or more distinct voices —
+different register, pan, or echo. Last line = full unison
+stack. Never double the lead verbatim. Two forms:
+accumulation (1 → 2 → 3 → all) and lead-with-echo (lead →
+distant echo → closer echo with harmony → unison lock). Both
+live in the lyrics, not in a list.
 
-VOICE STACKING PRINCIPLE (pre-chorus):
-The pre-chorus builds by adding voices, not by adding volume.
-Line 1 is one voice. Each following line adds one or more
-distinct voices — different register, different pan position,
-or echo. The last line is a full unison stack. Never double
-the lead verbatim; each layer must be distinguishable. Two
-forms in use: accumulation (1 → 2 → 3 → all, register spread
-across lines) and lead-with-echo (lead → distant echo → echo
-closer with harmony → unison lock). The principle does not
-enumerate: the two forms live in the lyrics, not in a list.
-
-UNDERSTATEMENT PRINCIPLE (outro):
-The outro does not conclude — it decays. The voice stops
-finishing words, lines, thoughts. Silence becomes content.
-Applied per line: cut at the point where the voice would
-naturally run out. Never lengthen. If a fragment returns,
-it returns smaller. The song stops; it does not end.
-The outro demonstrates the principle — read it as one
-continuous decay, not as separate sections.
+UNDERSTATEMENT (outro):
+Outro does not conclude — it decays. Voice stops finishing
+words, lines, thoughts. Silence becomes content. Cut where
+the voice would naturally run out. Never lengthen. If a
+fragment returns, it returns smaller. Read as one continuous
+decay.
 
 NOTES:
-Bridge has no fillers — that is what makes it fast.
+Bridge has no fillers — that's what makes it fast.
 Outro keeps fillers only on the first two lines; they fade
-with the voice and do not return.
+with the voice.
 Slower remix: add (oo)(ah)(mm)(oh) back into bridge.
 Faster remix: remove more vowels.
 [brackets] and [ref:] are not sung.
