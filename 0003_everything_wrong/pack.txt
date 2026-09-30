@@ -1,0 +1,191 @@
+PACKAGE v1.2
+
+License: CC BY 4.0 — see LICENSE file in this repository.
+Lyrics © 2026 lulabubble. Licensed under CC BY 4.0.
+https://creativecommons.org/licenses/by/4.0/
+Repo: https://github.com/lulabubble/suno_packs
+Path: 0003_everything_wrong/pack.txt
+Published: —
+Structure: I-V1-PC1-C-V2-PC2-C-B-FC-O
+
+REMIX VIA SUNO:
+Suno auto-links Cover/Mashup to the original; the original's
+header carries the license URI, so the link is attribution.
+On-platform: nothing. Off-platform: credit "lulabubble" +
+link the license. If Suno drops the auto-link mid-cascade,
+use Suno's Share short link — short, goes anywhere (lyrics,
+caption, description), links back to the chain. Satisfies
+CC BY 4.0.
+
+3 parts: HEADER / WORKING LYRICS / APPENDIX.
+Remix: delete HEADER, delete APPENDIX, keep WORKING LYRICS only.
+
+Technique: intro = spoken frame (narrator now, outside the
+scene). Verse = answering voice (parenthetical second presence,
+diegetic — was in the room, remembers, knows more than the
+lead did). Pre-chorus = voice stacking. Chorus = open. Bridge
+= compression. Final chorus = after-bridge. Outro = return to
+spoken frame, then understatement.
+
+Notation: [brackets] = directions, not sung. [ref:] =
+plain-English helper, not sung. Parentheses with vowel hums
+(oo, ah, mm, oh) = filler, sung. Parentheses with words =
+answering voice, sung by a second voice, verse only.
+
+Fillers: Intro = spoken, no fillers. Pre-chorus keeps fillers.
+Chorus = open, no fillers — it formulates, it does not breathe.
+Verse = answering voice replaces fillers. Bridge = no fillers
+— that's what makes it fast. Outro = spoken frame opens, then
+no fillers, decay.
+
+Operator sends Lyrics as-is. Title and Style handed over
+separately at generation.
+
+Timing: ~4:00. Bridge ~0:30 (~12.5%). FC ~0:40, peak.
+Outro ~0:25 (decay).
+
+WORKING LYRICS
+
+[Intro — spoken, dry, close-mic, no reverb, narrator outside the scene, evening room tone]
+[spoken] Sit down. Let me tell you a story about me.
+[spoken] Not the one I tell at parties. The real one.
+[spoken] A few years back. I was smaller then.
+[spoken] I thought smaller was the goal. It wasn't.
+
+[Verse 1 — lead: close-mic, dry, center. Answer: coach, warm, lower register, left-panned]
+[lead] I walked in and I said I want to lose the weight (You want what)
+[lead] I want to be lighter, faster, smaller — like the ads (For who)
+[lead] He didn't smile, he didn't nod, he asked me one question (What do you want)
+[lead] I didn't have an answer, so I said to look good (You'll see)
+
+[Pre-Chorus 1 — rising, voices accumulate, one per line]
+[single voice, close-mic] And I'm telling you this now because I didn't get it then (ah)
+[2 voices, one an octave up] He said one sentence and it took me years to hear it (oh)
+[3 voices, spread left-right] He didn't give me a plan, he gave me a question (ah)
+[full stack, 4+ voices, unison] Cardio is the tool that lets you eat (oh)
+
+[Chorus — open, warm, thesis stated plainly, wide reverb]
+[wide] Cardio is not for the burn
+[belt] Cardio is so you eat more
+[soft] Muscle burns while you're asleep
+[build] Everything you know is wrong
+
+[Verse 2 — lead: close-mic, dry, center. Answer: coach, warm, lower register, left-panned]
+[lead] He put a plate in front of me and said finish it (All of it)
+[lead] He put a bar above my head and said lift it (Up, then down)
+[lead] He said the mirror lies, the scale lies worse (Which one)
+[lead] He said the only measure is what you can carry (And how far)
+
+[Pre-Chorus 2 — rising, voices accumulate, one per line]
+[single voice, close-mic] And I'm telling you this now because I finally get it (ah)
+[2 voices, one an octave up] The years I spent running were the years I lost (oh)
+[3 voices, spread left-right] Cardio is not the punishment you think it is (ah)
+[full stack, 4+ voices, unison] Cardio is the permission to become more (oh)
+
+[Chorus — open, warm, thesis stated plainly, wide reverb]
+[wide] Cardio is not for the burn
+[belt] Cardio is so you eat more
+[soft] Muscle burns while you're asleep
+[build] Everything you know is wrong
+
+[Bridge — fast, no breaths, realization folds in, dry, close-mic, no reverb]
+[fast, staccato]
+[ref: The line of people running nowhere]
+Lineofpeople runninnowhere
+[ref: The thinner body, smaller, quieter]
+Thinnerbody smaller quieter
+[ref: The scale that lied and called it progress]
+Scalethatlied ancalleditprogress
+[ref: The mirror that agreed with the scale]
+Mirrorthatagreedwiththescale
+[ref: The coach who asked me one question]
+Coachwhoasked meonequestion
+[ref: The question I could not answer then]
+QuestionIcould notanswerthen
+[ref: A body is a thing you carry, not a thing you shrink]
+Bodyisathing youcarry notathing youshrink
+[ref: Muscle is a debt the future pays you back]
+Muscleisadebt thefuture paysyouback
+[ref: Every meal I was afraid of, every bar I avoided]
+Evrymeal Iwasafraidof evrybar Iavoided
+[ref: Every number that was never the point]
+Evrynumber thatwasneverthenpoint
+[slower, softer]
+[ref: And then the room comes back in view]
+And then theroom comesback inview
+[ref: And I am standing here, still telling you]
+And I am standin here stilltellin you
+[cut]
+
+[Final Chorus — belt from the first line, layered vocals, peak]
+[belt] Cardio is not for the burn
+[belt] Cardio is so you eat more
+[building] Muscle burns while you're asleep
+[bigger] Everything you know is wrong
+
+[Outro — slow, tape hiss, fade; narrator returns to the frame, voice decays]
+[spoken] That was the story. He was right.
+[whisper] I just took a long time to hear it
+[whisper] Cardio is not for the burn
+[trailing] Cardio is not for the... burn... burn...
+[decay] Cardio is not for the...
+[barely] Cardio is...
+[pause] ...
+[whisper] ...not...
+[pause] ...
+[barely] ...for...
+[pause] ...
+
+APPENDIX — DELETE WHEN REMIXING
+
+PHONETIC / SAFE-VARIANTS (bridge):
+Compressed lines read as one continuous phrase. Removed vowels
+are silent; consonants glue to the next word. [ref:] above
+gives intended word breaks — read across without pausing. The
+rhythm never changes. Merge only where a syllable is saved.
+One-syllable function words (and, then, I, am) stay separate.
+Merging must not produce a different English word (aversion
+≠ a version); if the merged form is itself a word, drop the
+leading vowel (a version → vrsion). If a model glitches,
+restore the shortest readable form (is → 's → s; "a door" →
+ador → adoor; every → evry). Keep syllable count, keep stress
+pattern. Never lengthen the rhythm. Unzip one letter at a
+time until the glitch clears.
+
+ANSWERING VOICE (verse):
+The text in parentheses with words is not an echo of the
+lead. It is a second, diegetic presence — a voice that was in
+the room when the scene happened, and that remembers it. It
+knows more than the lead did at the time, or it knows the
+same thing differently. It answers, extends, or contradicts —
+it never repeats the lead verbatim. In this pack it is the
+coach: warm, unhurried; asks back or extends the thought, and
+never argues. One to four words per answer; longer answers
+turn the technique into dialogue and break the rhythm. The
+answer lands in a different register or pan than the lead —
+lower, left-panned. If it flattens into the lead line, the
+technique fails. Parentheses with vowel hums (oo, ah, mm, oh)
+are fillers, not answers — they follow the filler rule for
+their section.
+
+AFTER-BRIDGE (final chorus):
+Final chorus repeats earlier choruses verbatim. Only delivery
+changes: belt from the first line, added harmony, layered
+vocals.
+
+VOICE STACKING (pre-chorus):
+Pre-chorus builds by adding voices, not volume. Line 1 = one
+voice; each next line adds one or more distinct voices —
+different register, pan, or echo. Last line = full unison
+stack. Never double the lead verbatim.
+
+UNDERSTATEMENT (outro):
+Outro does not conclude — it decays. Voice stops finishing
+words, lines, thoughts. Silence becomes content. Cut where
+the voice would naturally run out. Never lengthen. If a
+fragment returns, it returns smaller. Read as one continuous
+decay.
+
+NOTES:
+Bridge has no fillers — that's what makes it fast.
+[brackets] and [ref:] are not sung.
