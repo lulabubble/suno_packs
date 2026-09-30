@@ -69,6 +69,32 @@ When remixing, delete HEADER and APPENDIX. Keep WORKING LYRICS only.
 
 Bracketed text like `[Intro]` and `[whisper]` is direction, not sung lyrics. `[ref:]` lines are plain-English helpers, also not sung. If Suno sings them aloud, treat that as a test finding rather than a lyric.
 
+## Make your own pack
+
+The same format works for anyone. A pack is just text, and you can build one with a smart chatbot and a clear head.
+
+The minimum setup is three roles — a small, manual agentic loop:
+
+- **Creator** — first chat window of a smart chatbot (GPT, Kimi, Claude, whatever you prefer).
+- **Critic** — a second, separate chat window of the same kind of chatbot. Its only job is to review.
+- **Operator** — you. The only real person in the loop.
+
+Creator and Critic are just two windows of a chatbot. They do not share memory, they do not talk to each other directly, and they have no responsibility for anything. The Operator is the bridge: reads one, writes to the other, and decides what actually happens.
+
+The loop is simple:
+
+1. Operator gives the pack to the Creator window. Roles and rules are already described inside the pack — no separate briefing needed.
+2. Creator produces or revises lyrics, structure, techniques.
+3. Operator hands the result to the Critic window. Critic reviews.
+4. Operator relays the critique back to the Creator, or accepts it, or rejects it.
+5. Operator runs the generation in Suno, listens, gives feedback, decides when the pack is done.
+
+**The Operator carries the responsibility.** Not the chatbots. Every generation, every piece of feedback, every published pack is the Operator's call. The chatbots suggest; the Operator decides.
+
+This is where critical thinking matters most. A pack is only as good as the human running the loop. The more the Operator stays awake — listens carefully, questions the critique, pushes back on the Creator, notices what a generation is really doing — the better the pack gets. Passive relaying produces mediocre packs. Active judgment produces good ones.
+
+Start with one pack, one Creator window, one Critic window, and yourself. That is the whole framework.
+
 ## License
 
 Unless otherwise noted, all lyrics and pack text in this repository are © 2026 lulabubble and licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**. See [LICENSE](LICENSE).
