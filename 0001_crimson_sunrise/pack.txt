@@ -1,8 +1,9 @@
-PACKAGE v2.0
+PACKAGE v2.3
 
 License: Apache 2.0 — see LICENSE file in this repository.
 Repo: https://github.com/lulabubble/suno_packs
-File: first_draft_pack.txt
+Path: 0001_crimson_sunrise/pack.txt
+File: pack.txt
 
 3 parts: HEADER / WORKING LYRICS / APPENDIX.
 Remix: delete HEADER, delete APPENDIX, keep WORKING LYRICS only.
