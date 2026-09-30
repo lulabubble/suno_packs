@@ -1,6 +1,8 @@
-PACKAGE v2.5
+PACKAGE v2.6
 
-License: Apache 2.0 — see LICENSE file in this repository.
+License: CC BY 4.0 — see LICENSE file in this repository.
+Lyrics © 2026 lulabubble. Licensed under CC BY 4.0.
+https://creativecommons.org/licenses/by/4.0/
 Repo: https://github.com/lulabubble/suno_packs
 Path: 0001_crimson_sunrise/pack.txt
 File: pack.txt
