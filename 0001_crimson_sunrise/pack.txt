@@ -7,12 +7,12 @@ Repo: https://github.com/lulabubble/suno_packs
 Path: 0001_crimson_sunrise/pack.txt
 Published: https://suno.com/s/QnqPez5ZnbqUwVrb
 
-REMIX VIA SUNO — SIMPLIFIED:
-Using Suno's built-in Remix tools (Cover / Mashup) needs no
-
-original track alongside the remix, satisfying CC BY 4.0's
-"reasonable manner" requirement. License URI is in HEADER.
-Outside Suno: credit "lulabubble", link the license, note changes.
+REMIX VIA SUNO:
+Suno does: auto-links Cover / Mashup remixes to the
+original track. The original's package header carries
+the license URI. So attribution is handled by the link.
+You do: nothing on-platform. Off-platform: credit
+"lulabubble" + link the license.
 
 3 parts: HEADER / WORKING LYRICS / APPENDIX.
 Remix: delete HEADER, delete APPENDIX, keep WORKING LYRICS only.
