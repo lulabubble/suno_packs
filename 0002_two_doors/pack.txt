@@ -1,4 +1,4 @@
-PACKAGE v1.4 (draft)
+PACKAGE v1.5 (draft)
 
 License: CC BY 4.0 — see LICENSE file in this repository.
 Lyrics © 2026 lulabubble. Licensed under CC BY 4.0.
@@ -25,10 +25,12 @@ That alone satisfies CC BY 4.0.
 3 parts: HEADER / WORKING LYRICS / APPENDIX.
 Remix: delete HEADER, delete APPENDIX, keep WORKING LYRICS only.
 
-Technique: compression mainly in bridge; verses / pre-chorus /
-chorus / intro stay mostly uncompressed (dreamy contrast).
-Outro uses understatement: the voice decays, words and lines
-are not finished, silence becomes content. Bridge: syllable
+Technique: compression mainly in bridge; verses / chorus /
+intro stay mostly uncompressed (dreamy contrast). Outro uses
+understatement: the voice decays, words and lines are not
+finished, silence becomes content. Pre-chorus uses voice
+stacking: one voice enters, additional voices accumulate
+line by line, last line is a full stack. Bridge: syllable
 merge, -ing→-in, every→evry, and→an, of→o, is→'s, "a"
 dropped, aggressive vowel removal. Fillers (oo)(ah)(mm)(oh)
 in intro, verses, pre-chorus, chorus — that's what makes
@@ -67,8 +69,9 @@ over separately at test-generation time.
 
 TIMING:
 ~4:00 total. Bridge ~0:30 (~12.5%). Final chorus ~0:40.
-Outro ~0:25 (was ~0:20; extended by decay). Peak sits on
-final chorus, not on bridge.
+Outro ~0:25 (decay tail). Pre-chorus: no added length —
+stacking changes texture, not duration. Peak sits on final
+chorus, not on bridge.
 
 CHANGELOG FORMAT:
 One line per version (3–4 words) + RESUME paragraph.
@@ -83,6 +86,9 @@ TEST NOTE — stripped before remix, not sung:
 A/B on hook line 2 + line 4: run one generation with
 name/flame, one with name/name (line 4 = "this name").
 Compare final chorus only. Default: name/flame.
+Also: listen to voice stacking in pre-chorus — does Suno
+accumulate voices line by line, or flatten all four into
+one loud layer? Does the last line read as a full stack?
 
 WORKING LYRICS
 
@@ -96,11 +102,11 @@ The evening light is on your face (oh)
 The years have been a quiet echo (ah)
 Of everything we left in place (oo)
 
-[Pre-Chorus 1 — rising, recognition builds, present tense]
-[rising] The music stops and starts again (ah)
-The room begins to fall away (oh)
-We both know what's about to happen (ah)
-We both know what we cannot say (oh)
+[Pre-Chorus 1 — rising, voices accumulate, one per line]
+[single voice, close-mic] The music stops and starts again (ah)
+[2 voices, one an octave up] The room begins to fall away (oh)
+[3 voices, spread left-right] We both know what's about to happen (ah)
+[full stack, 4+ voices, unison] We both know what we cannot say (oh)
 
 [Chorus — open, warm, alternate life seen clearly, wide reverb]
 [wide] Two doors in the evening glow
@@ -114,12 +120,11 @@ The city hums behind the glass (oh)
 We talk about the smaller things (ah)
 And let the bigger questions pass (oo)
 
-[Pre-Chorus 2 — rising, slightly faster, present tense]
-[rising, slightly faster]
-The music stops and starts again (ah)
-The room begins to fall away (oh)
-We both know what's about to happen (ah)
-And we both know we'll let it stay (oh)
+[Pre-Chorus 2 — rising, slightly faster, lead + echo accumulate]
+[lead only] The music stops and starts again (ah)
+[lead + distant echo] The room begins to fall away (oh)
+[lead + closer echo, harmony above] We both know what's about to happen (ah)
+[unison stack, all voices lock in] And we both know we'll let it stay (oh)
 
 [Chorus — open, warm, alternate life seen clearly, wide reverb]
 [wide] Two doors in the evening glow
@@ -204,6 +209,17 @@ verbatim. What changes is delivery: belt from the first line,
 added harmony, layered vocals. Not a new text. The refrain is
 the same knowledge — the first time as a question, the last
 as a fact.
+
+VOICE STACKING PRINCIPLE (pre-chorus):
+The pre-chorus builds by adding voices, not by adding volume.
+Line 1 is one voice. Each following line adds one or more
+distinct voices — different register, different pan position,
+or echo. The last line is a full unison stack. Never double
+the lead verbatim; each layer must be distinguishable. Two
+forms in use: accumulation (1 → 2 → 3 → all, register spread
+across lines) and lead-with-echo (lead → distant echo → echo
+closer with harmony → unison lock). The principle does not
+enumerate: the two forms live in the lyrics, not in a list.
 
 UNDERSTATEMENT PRINCIPLE (outro):
 The outro does not conclude — it decays. The voice stops
