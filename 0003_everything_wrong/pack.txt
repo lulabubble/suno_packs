@@ -1,11 +1,11 @@
-PACKAGE v1.3
+PACKAGE v1.4
 
 License: CC BY 4.0 — see LICENSE file in this repository.
 Lyrics © 2026 lulabubble. Licensed under CC BY 4.0.
 https://creativecommons.org/licenses/by/4.0/
 Repo: https://github.com/lulabubble/suno_packs
 Path: 0003_everything_wrong/pack.txt
-Published: —
+Published: https://suno.com/s/kIyt3ayoIByeMm4h
 Structure: I-V1-PC1-C-V2-PC2-C-B-FC-O
 
 REMIX VIA SUNO:
