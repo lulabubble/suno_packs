@@ -1,4 +1,8 @@
-PACKAGE v1.8
+PACKAGE v2.0
+
+License: Apache 2.0 — see LICENSE file in this repository.
+Repo: https://github.com/lulabubble/suno_packs
+File: first_draft_pack.txt
 
 3 parts: HEADER / WORKING LYRICS / APPENDIX.
 Remix: delete HEADER, delete APPENDIX, keep WORKING LYRICS only.
@@ -70,45 +74,46 @@ the track is done.
 
 WORKING LYRICS
 
-[Intro — slow, warm steam, future tea whispers]
-Steam on the window, future in the leaves (oo)
-Morning on the table, waiting to be free (ah)
+[Intro — slow, warm steam, red whispers, wide reverb, distant]
+[whisper] Steam on the window, future in the petals [breath] (oo)
+[pause] Morning on the table, waiting to be free (ah)
 
-[Verse 1 — calm, quiet morning, normal time flows]
-I wake up to a quiet room (mm)
+[Verse 1 — calm, quiet morning, normal time flows, close-mic, dry]
+[close] I wake up to a quiet room [pause] (mm)
 A kettle singing soft and low (oh)
 The clock is moving like it should (ah)
-But in the cup, a deeper green (oo)
+[warm] But in the cup, a deeper red (oo)
 
-[Pre-Chorus 1 — rising water, present tense bends gently]
-Pour the water, watch it turn (ah)
+[Pre-Chorus 1 — rising water, present tense bends gently, building]
+[rising] Pour the water, watch it turn (ah)
 Present tense begins to bend (oh)
 
-[Chorus — open, dissolving sunrise, bright future tea]
-Green sunrise, dissolving in the sky (oo)
-Green sunrise, a future in the tea (ah)
-Time is normal on the other side (mm)
-But here it breaks and breathes through me (oh)
+[Chorus — open, dissolving sunrise, bright red tea, wide reverb]
+[wide] Crimson sunrise, dissolving in the sky (oo)
+[belt] Crimson sunrise, a future in the tea (ah)
+[soft] Time runs straight on the other side (mm)
+[build] But here it breaks and breathes through me (oh)
 
-[Verse 2 — warm, unknown leaves, time about to change]
-Oolong whispers, leaves unknown (oh)
-A flavor from a farther year (mm)
+[Verse 2 — warm, unknown petals, time about to change, close-mic]
+Hibiscus whispers, petals unknown [pause] (oh)
+[intimate] A flavor from a farther year (mm)
 I taste the moment it will change (oo)
 The old and new become the same (ah)
 
-[Pre-Chorus 2 — rising water, present tense begins to blend]
+[Pre-Chorus 2 — slightly faster, rising water, present tense begins to blend]
 Pour the water, watch it turn (ah)
 Present tense begins to blend (oh)
 
-[Chorus — open, dissolving sunrise, bright future tea]
-Green sunrise, dissolving in the sky (oo)
-Green sunrise, the future in the tea (ah)
-Time is normal on the other side (mm)
-Now here it breaks and breathes through me (oh)
+[Chorus — open, dissolving sunrise, bright red tea, wide reverb]
+[wide] Crimson sunrise, dissolving in the sky (oo)
+[belt] Crimson sunrise, the future in the tea (ah)
+[soft] Time runs straight on the other side (mm)
+[build] Now here it breaks and breathes through me (oh)
 
-[Bridge — fast, no breaths, time breaks, all blends]
-[ref: This is where it all begins to blend]
-Thisswheretallbeginstblend
+[Bridge — fast, no breaths, time breaks, red bloom, dry, close-mic, no reverb]
+[fast, staccato]
+[ref: This is where the red begins to bloom]
+Thisswheretheredbeginstbloom
 [ref: The tea, the sky, the now, the then]
 Thtea thsky thnow ththen
 [ref: A ceremony past the edge]
@@ -123,8 +128,8 @@ Evrythingsrushin
 Likebowl olightansteam
 [ref: Mix the future with the dream]
 Mixthefuture withthedream
-[ref: Every leaf becomes a door]
-Evryleaf becomesador
+[ref: Every petal becomes a door]
+Evrypetal becomesador
 [ref: Every second asks for more]
 Evrysecond asksformore
 [ref: Past and future lose their names]
@@ -135,16 +140,18 @@ Morningburns anrearranges
 Steamsrisin clocksrbreakin
 [ref: Something new is waking, waking]
 Somethinnew swakinwakin
-[ref: Green and gold and unknown light]
-Greenangold anunknownlite
+[crescendo]
+[ref: Red and gold and unknown light]
+Redangold anunknownlite
 [ref: Pour it slow and hold it tight]
 Pouritslow anholdittite
+[cut]
 
-[Outro — slow again, cool tea, new taste stays]
-Green sunrise, slow again (oo)
+[Outro — slow again, cool tea, new taste stays, tape hiss, fade]
+Crimson sunrise, slow again (oo)
 Tea is cool, the time is plain (ah)
-But the taste is not the same (mm)
-Green sunrise, green sunrise (oh)
+[whisper] But the taste is not the same (mm)
+Crimson sunrise, crimson sunrise (oh)
 
 APPENDIX — DELETE WHEN REMIXING
 
@@ -166,33 +173,19 @@ the model mis-sings. Never lengthen the rhythm. Apply per
 line, not to the whole bridge. "Unzip one letter at a time
 until the glitch clears."
 
+Safe-variants for v2.0 (only if Suno chews a line):
+Thisswheretheredbeginstbloom → Thiswheretheredbeginstbloom,
+  or Thisswhere the red begins to bloom
+Thtea thsky thnow ththen → Thetea thesky thenow thethen
+Evrypetal becomesador → Evrypetal becomesadoor
+Pastanfuture losethrnames → Pastanfuture losether names
+Steamsrisin clocksrbreakin → Steamsrisin clocksarebreakin
+Somethinnew swakinwakin → Somethinnew iswakinwakin
+Pouritslow anholdittite → Pouritslow anholdittight
+
 NOTES:
 Bridge has no fillers — that is what makes it fast.
 Slower remix: add (oo)(ah)(mm)(oh) back into bridge.
 Faster remix: remove more vowels.
 [brackets] are directions, not lyrics. Edit freely per
 generation. [ref:] lines are not sung.
-
-CHANGELOG:
-v1.8 — compact layout
-v1.7 — compact changelog format
-v1.6 — statuses out, dupes out, title/style out
-v1.5 — critic audit accepted
-v1.4 — quick-start protocol
-v1.3 — phonetic principles, timing
-v1.2 — trimmed, style removed
-v1.1 — header, ref tags, bend→blend
-v1.0 — initial package
-
-RESUME:
-Concept locked: dreamy ambient pop, slow open sections against
-a compressed fast bridge; bridge has no fillers, which is what
-makes it accelerate. Timing stable at ~4:00 with ~0:30 bridge.
-Bridge is FROZEN — no vowel, no rhythm, no syllable changes.
-Package cleaned: no internal statuses in lyrics, no duplicated
-enumerations, Title and Style live outside the package and are
-produced on demand, layout compact. Next step: one test
-generation — listen to bridge slittness and speed, contrast
-between open sections and bridge, and whether Chorus 2 sags
-
-before the bridge.
