@@ -1,4 +1,4 @@
-PACKAGE v1.2
+PACKAGE v1.3
 
 License: CC BY 4.0 — see LICENSE file in this repository.
 Lyrics © 2026 lulabubble. Licensed under CC BY 4.0.
@@ -9,34 +9,27 @@ Published: —
 Structure: I-V1-PC1-C-V2-PC2-C-B-FC-O
 
 REMIX VIA SUNO:
-Suno auto-links Cover/Mashup to the original; the original's
-header carries the license URI, so the link is attribution.
-On-platform: nothing. Off-platform: credit "lulabubble" +
-link the license. If Suno drops the auto-link mid-cascade,
-use Suno's Share short link — short, goes anywhere (lyrics,
-caption, description), links back to the chain. Satisfies
-CC BY 4.0.
+Suno auto-links Cover/Mashup to the original; header license
+URI = attribution. On-platform: nothing. Off-platform: credit
+"lulabubble" + license link. If the auto-link drops mid-
+cascade, use Suno's Share short link. Satisfies CC BY 4.0.
 
 3 parts: HEADER / WORKING LYRICS / APPENDIX.
 Remix: delete HEADER, delete APPENDIX, keep WORKING LYRICS only.
 
-Technique: intro = spoken frame (narrator now, outside the
-scene). Verse = answering voice (parenthetical second presence,
-diegetic — was in the room, remembers, knows more than the
-lead did). Pre-chorus = voice stacking. Chorus = open. Bridge
-= compression. Final chorus = after-bridge. Outro = return to
-spoken frame, then understatement.
+Technique: intro = spoken frame. Verse = answering voice
+(parenthetical second presence, diegetic — was in the room,
+knows more than the lead did). Pre-chorus = voice stacking.
+Chorus = open. Bridge = compression. Final chorus = after-
+bridge. Outro = spoken frame return, then understatement.
 
-Notation: [brackets] = directions, not sung. [ref:] =
-plain-English helper, not sung. Parentheses with vowel hums
-(oo, ah, mm, oh) = filler, sung. Parentheses with words =
-answering voice, sung by a second voice, verse only.
-
-Fillers: Intro = spoken, no fillers. Pre-chorus keeps fillers.
-Chorus = open, no fillers — it formulates, it does not breathe.
-Verse = answering voice replaces fillers. Bridge = no fillers
-— that's what makes it fast. Outro = spoken frame opens, then
-no fillers, decay.
+Notation / fillers: [brackets] and [ref:] = directions, not
+sung. (vowel hums: oo, ah, mm, oh) = filler, sung. (words) =
+answering voice, second voice, verse only. Intro spoken, no
+fillers. Pre-chorus keeps fillers. Chorus none — it
+formulates. Verse = answering voice replaces them. Bridge
+none — that's what makes it fast. Outro none after the
+spoken frame.
 
 Operator sends Lyrics as-is. Title and Style handed over
 separately at generation.
@@ -153,38 +146,30 @@ pattern. Never lengthen the rhythm. Unzip one letter at a
 time until the glitch clears.
 
 ANSWERING VOICE (verse):
-The text in parentheses with words is not an echo of the
-lead. It is a second, diegetic presence — a voice that was in
-the room when the scene happened, and that remembers it. It
-knows more than the lead did at the time, or it knows the
-same thing differently. It answers, extends, or contradicts —
-it never repeats the lead verbatim. In this pack it is the
-coach: warm, unhurried; asks back or extends the thought, and
-never argues. One to four words per answer; longer answers
-turn the technique into dialogue and break the rhythm. The
-answer lands in a different register or pan than the lead —
-lower, left-panned. If it flattens into the lead line, the
-technique fails. Parentheses with vowel hums (oo, ah, mm, oh)
-are fillers, not answers — they follow the filler rule for
-their section.
+Parentheses with words are not an echo. They are a second,
+diegetic presence — a voice that was in the room, remembers
+it, knows more than the lead did then. It answers, extends,
+or contradicts; it never repeats the lead verbatim. Here it
+is the coach: warm, unhurried, asks back or extends the
+thought. One to four words per answer; longer breaks the
+rhythm. It lands in a different register or pan — lower,
+left-panned. If it flattens into the lead, the technique
+fails. (Vowel hums) are fillers, per the section rule.
 
 AFTER-BRIDGE (final chorus):
-Final chorus repeats earlier choruses verbatim. Only delivery
-changes: belt from the first line, added harmony, layered
-vocals.
+Final chorus repeats earlier choruses verbatim. Delivery only:
+belt from line 1, added harmony, layered vocals.
 
 VOICE STACKING (pre-chorus):
 Pre-chorus builds by adding voices, not volume. Line 1 = one
-voice; each next line adds one or more distinct voices —
-different register, pan, or echo. Last line = full unison
-stack. Never double the lead verbatim.
+voice; each next adds distinct voices (register, pan, echo).
+Last line = full unison. Never double the lead verbatim.
 
 UNDERSTATEMENT (outro):
 Outro does not conclude — it decays. Voice stops finishing
 words, lines, thoughts. Silence becomes content. Cut where
-the voice would naturally run out. Never lengthen. If a
-fragment returns, it returns smaller. Read as one continuous
-decay.
+the voice would run out. Never lengthen. Returning fragments
+return smaller. Read as continuous decay.
 
 NOTES:
 Bridge has no fillers — that's what makes it fast.
