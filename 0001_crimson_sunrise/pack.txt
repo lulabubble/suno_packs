@@ -1,12 +1,18 @@
-PACKAGE v2.6
+PACKAGE v2.7
 
 License: CC BY 4.0 — see LICENSE file in this repository.
 Lyrics © 2026 lulabubble. Licensed under CC BY 4.0.
 https://creativecommons.org/licenses/by/4.0/
 Repo: https://github.com/lulabubble/suno_packs
 Path: 0001_crimson_sunrise/pack.txt
-File: pack.txt
 Published: https://suno.com/s/QnqPez5ZnbqUwVrb
+
+REMIX VIA SUNO — SIMPLIFIED:
+Using Suno's built-in Remix tools (Cover / Extend / Reuse /
+Adjust Speed) needs no manual attribution — Suno displays the
+original track alongside the remix, satisfying CC BY 4.0's
+"reasonable manner" requirement. License URI is in HEADER.
+Outside Suno: credit "lulabubble", link the license, note changes.
 
 3 parts: HEADER / WORKING LYRICS / APPENDIX.
 Remix: delete HEADER, delete APPENDIX, keep WORKING LYRICS only.
@@ -20,61 +26,37 @@ accelerate. [brackets] = directions, not sung, read by model.
 [ref:] = plain-English helper, not sung.
 
 INTERNAL STATUS — NOT IN PACKAGE:
-No OPEN / FROZEN / draft-status labels inside WORKING LYRICS.
-Internal work-state lives only in CHANGELOG. Lyrics carry
-directions for the model, nothing else.
+No OPEN/FROZEN/draft labels in WORKING LYRICS; work-state
+lives only in CHANGELOG.
 
 NO DUPLICATED LISTS:
-The package does not repeat itself. Plain-English reference
-lives inline as [ref:] next to each compressed line — no
-separate clean-bridge listing. Principles describe the rule;
-they do not enumerate every instance.
+Plain-English reference lives inline as [ref:] next to each
+compressed line. Principles state the rule, never enumerate.
 
 TITLE & STYLE — OUT OF PACKAGE:
-Title and Style are not stored inside the package. They are
-prepared on demand, only when Operator asks for a test
-generation. Package lives with lyrics / edits; Title and
-Style go straight to Suno at generation time.
+Prepared on demand at generation time; not stored here.
 
 SERVICE TAGS — DO NOT PARANOID:
-Service tags ([brackets], [ref:]) are assumed NOT SUNG, only
-READ by the model. If a generation proves otherwise, that is
-a test-generation finding — we fix it then, not preemptively.
+[brackets] and [ref:] assumed NOT SUNG. If a generation reads
+them aloud, that's a test finding — fix then, not preemptively.
 
 OPERATOR ROLE:
-Operator does not perform automatic work. LLM / chatbots exist
-precisely to do that work. Operator's job: say clearly WHAT to
-do, WHAT to listen for, WHAT to send to generation. LLM outputs
-Lyrics ready-to-send; Operator sends as-is. No manual merging,
-no retyping, no trimming. Title and Style are handed over
-separately, when a test generation is requested.
+Operator says WHAT to do, WHAT to listen for, WHAT to send.
+LLM outputs Lyrics ready-to-send; Operator sends as-is.
+No manual merging, retyping, trimming. Title and Style handed
+over separately at test-generation time.
 
 TIMING:
-Total: ~4:00. Bridge: ~0:30 (~12.5%). Bridge sits well: fast
-enough to feel like a break, short enough not to dominate.
-No timing change needed.
-
-LAYOUT:
-No decorative separators, no repeated ===== lines, no extra
-blank lines. One blank line between sections. Compact only.
+~4:00 total. Bridge ~0:30 (~12.5%). No change needed.
 
 CHANGELOG FORMAT:
-Two parts. First: one line per version, max 3–4 words —
-headline only. Second: RESUME — short paragraph: what happened,
-where we are, what's next.
+One line per version (3–4 words) + RESUME paragraph.
 
 QUICK-START PROTOCOL:
-Send this whole package to any LLM. Name your role and target.
-
-Roles:
-Creator / Lead — owns the track, decides what changes.
-Operator — runs Suno, passes messages between chats by hand.
-Critic — reviews, returns feedback.
-
-For test generations, Operator states the focus, e.g. "listen
-to bridge speed and pronunciation," and asks for feedback on
-exactly that. Operator relays answers back and forth until
-the track is done.
+Send this package to any LLM. Name your role and target.
+Roles: Creator (owns the track), Operator (runs Suno, relays
+messages), Critic (reviews). For test generations, Operator
+states the focus and asks feedback on exactly that.
 
 WORKING LYRICS
 
@@ -160,36 +142,20 @@ Crimson sunrise, crimson sunrise (oh)
 APPENDIX — DELETE WHEN REMIXING
 
 PHONETIC PRINCIPLE (bridge):
-Compressed lines are read as one continuous phrase. Every
-removed vowel is silent; consonants glue straight onto the
-next word. The [ref:] line above each compressed line gives
-the intended word breaks — read across them without pausing.
-When in doubt, sing the [ref:] line aloud at speed, then
-remove the vowels the mouth does not need. The rhythm never
-changes: what is lost is only what the voice skips anyway.
+Compressed lines read as one continuous phrase. Removed vowels
+are silent; consonants glue to the next word. The [ref:] line
+above gives intended word breaks — read across without pausing.
+The rhythm never changes: only what the voice would skip anyway.
 
 SAFE-VARIANTS PRINCIPLE (bridge):
-If a model glitches on a compressed line, restore the shortest
-readable form of the swallowed word (is → 's → s; "a door" →
-ador → adoor; every → evry). Priorities, in order: keep
-syllable count, keep stress pattern, restore only the letters
-the model mis-sings. Never lengthen the rhythm. Apply per
-line, not to the whole bridge. "Unzip one letter at a time
-until the glitch clears."
-
-Safe-variants for v2.0 (only if Suno chews a line):
-Thisswheretheredbeginstbloom → Thiswheretheredbeginstbloom,
-  or Thisswhere the red begins to bloom
-Thtea thsky thnow ththen → Thetea thesky thenow thethen
-Evrypetal becomesador → Evrypetal becomesadoor
-Pastanfuture losethrnames → Pastanfuture losether names
-Steamsrisin clocksrbreakin → Steamsrisin clocksarebreakin
-Somethinnew swakinwakin → Somethinnew iswakinwakin
-Pouritslow anholdittite → Pouritslow anholdittight
+If a model glitches, restore the shortest readable form of the
+swallowed word (is → 's → s; "a door" → ador → adoor; every →
+evry). Priorities: keep syllable count, keep stress pattern,
+restore only mis-sung letters. Never lengthen the rhythm. Apply
+per line: "unzip one letter at a time until the glitch clears."
 
 NOTES:
 Bridge has no fillers — that is what makes it fast.
 Slower remix: add (oo)(ah)(mm)(oh) back into bridge.
 Faster remix: remove more vowels.
-[brackets] are directions, not lyrics. Edit freely per
-generation. [ref:] lines are not sung.
+[brackets] and [ref:] are not sung.
