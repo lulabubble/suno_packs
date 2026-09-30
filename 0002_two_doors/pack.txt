@@ -1,0 +1,199 @@
+PACKAGE v1.3 (draft)
+
+License: CC BY 4.0 — see LICENSE file in this repository.
+Lyrics © 2026 lulabubble. Licensed under CC BY 4.0.
+https://creativecommons.org/licenses/by/4.0/
+Repo: https://github.com/lulabubble/suno_packs
+Path: 0002_two_doors/pack.txt
+Published: [SUNO SHORT LINK — TO BE FILLED AT PUBLISH]
+Structure: I-V1-PC1-C-V2-PC2-C-B-FC-O
+
+REMIX VIA SUNO:
+Suno does: auto-links Cover / Mashup remixes to the
+original track. The original's package header carries
+the license URI. So attribution is handled by the link.
+You do: nothing on-platform. Off-platform: credit
+"lulabubble" + link the license.
+
+CASCADE REMIXES:
+Cascade covers/mashups are normal for quality passes.
+If Suno drops the auto-link mid-cascade, use Suno's
+Share short link — it's short, goes anywhere (lyrics,
+caption, description), and links back to the chain.
+That alone satisfies CC BY 4.0.
+
+3 parts: HEADER / WORKING LYRICS / APPENDIX.
+Remix: delete HEADER, delete APPENDIX, keep WORKING LYRICS only.
+
+Technique: compression mainly in bridge; verses / pre-chorus /
+chorus / intro / outro stay mostly uncompressed (dreamy contrast).
+Bridge: syllable merge, -ing→-in, every→evry, and→an, of→o,
+is→'s, "a" dropped, aggressive vowel removal. Fillers (oo)(ah)(mm)(oh)
+in all sections EXCEPT bridge — that's what makes the bridge
+accelerate. [brackets] = directions, not sung, read by model.
+[ref:] = plain-English helper, not sung.
+
+AFTER-BRIDGE PRINCIPLE:
+The final chorus is NOT compressed. Compression marks the
+bridge. The final chorus repeats the words of earlier
+choruses verbatim. What changes is delivery, not text.
+The refrain is the same knowledge — earlier as a question,
+last as a fact. Rhythm never changes.
+
+INTERNAL STATUS — NOT IN PACKAGE:
+No OPEN/FROZEN/draft labels in WORKING LYRICS; work-state
+lives only in CHANGELOG.
+
+NO DUPLICATED LISTS:
+Plain-English reference lives inline as [ref:] next to each
+compressed line. Principles state the rule, never enumerate.
+
+TITLE & STYLE — OUT OF PACKAGE:
+Prepared on demand at generation time; not stored here.
+
+SERVICE TAGS — DO NOT PARANOID:
+[brackets] and [ref:] assumed NOT SUNG. If a generation reads
+them aloud, that's a test finding — fix then, not preemptively.
+
+OPERATOR ROLE:
+Operator says WHAT to do, WHAT to listen for, WHAT to send.
+LLM outputs Lyrics ready-to-send; Operator sends as-is.
+No manual merging, retyping, trimming. Title and Style handed
+over separately at test-generation time.
+
+TIMING:
+~4:00 total. Bridge ~0:30 (~12.5%). Final chorus ~0:40.
+Outro ~0:20. Peak sits on final chorus, not on bridge.
+
+CHANGELOG FORMAT:
+One line per version (3–4 words) + RESUME paragraph.
+
+QUICK-START PROTOCOL:
+Send this package to any LLM. Name your role and target.
+Roles: Creator (owns the track), Operator (runs Suno, relays
+messages), Critic (reviews). For test generations, Operator
+states the focus and asks feedback on exactly that.
+
+TEST NOTE — stripped before remix, not sung:
+A/B on hook line 2 + line 4: run one generation with
+name/flame, one with name/name (line 4 = "this name").
+Compare final chorus only. Default: name/flame.
+
+WORKING LYRICS
+
+[Intro — slow, evening street, warm window light, wide reverb, distant]
+[whisper] Evening on the pavement, streetlight on the glass (oo)
+[pause] Two doors in the hallway, both are built to last (ah)
+
+[Verse 1 — calm, close-mic, dry, restrained]
+[close] I see you standing by the window (mm)
+The evening light is on your face (oh)
+The years have been a quiet echo (ah)
+Of everything we left in place (oo)
+
+[Pre-Chorus 1 — rising, recognition builds, present tense]
+[rising] The music stops and starts again (ah)
+The room begins to fall away (oh)
+We both know what's about to happen (ah)
+We both know what we cannot say (oh)
+
+[Chorus — open, warm, alternate life seen clearly, wide reverb]
+[wide] Two doors in the evening glow
+[belt] The other room, the other name
+[soft] I see the life we didn't know
+[build] But I would choose this life, this flame
+
+[Verse 2 — warm, small talk, bigger questions withheld, close-mic]
+[close] You laugh at something that I said (mm)
+The city hums behind the glass (oh)
+We talk about the smaller things (ah)
+And let the bigger questions pass (oo)
+
+[Pre-Chorus 2 — rising, slightly faster, present tense]
+[rising, slightly faster]
+The music stops and starts again (ah)
+The room begins to fall away (oh)
+We both know what's about to happen (ah)
+And we both know we'll let it stay (oh)
+
+[Chorus — open, warm, alternate life seen clearly, wide reverb]
+[wide] Two doors in the evening glow
+[belt] The other room, the other name
+[soft] I see the life we didn't know
+[build] But I would choose this life, this flame
+
+[Bridge — fast, no breaths, alternate life flooding in, dry, close-mic, no reverb]
+[fast, staccato]
+[ref: A house with cracks along the wall]
+Houswithcracks alongthewall
+[ref: A kitchen morning, cold and small]
+Kitchenmornin coldansmall
+[ref: A child who has your hands and laugh]
+Achild whohas yourhands anlaugh
+[ref: A photograph, a different half]
+Photograph adiffrenthalf
+[ref: A song we wrote and came to hate]
+Asong wewrote ancametohate
+[ref: A Sunday afternoon, we wait]
+Sundayafternoon wewait
+[ref: Two cups, a life that's not complete]
+Twocups alife that'snotcomplete
+[ref: A door we leave a little light]
+Adoor weleave alittlelight
+[ref: A version of you, a version of me]
+Vrsionofyou vrsionofme
+[ref: Every door I didn't take]
+Evrydoor Ididn'ttake
+[ref: Every promise, every break]
+Evrypromise evrybreak
+[slower, softer]
+[ref: And then the room comes back in view]
+And then theroom comesback inview
+[ref: And I am standing here with you]
+And I am standin here withyou
+[cut]
+
+[Final Chorus — belt from the first line, layered vocals, peak]
+[belt] Two doors in the evening glow
+[belt] The other room, the other name
+[building] I see the life we didn't know
+[bigger] But I would choose this life, this flame
+
+[Outro — slow again, evening hum, tape hiss, fade]
+[whisper] You smile, I smile, we turn away (oo)
+[whisper] The glass is clear. (ah)
+[pause] Two doors in the evening glow. (mm)
+
+APPENDIX — DELETE WHEN REMIXING
+
+PHONETIC PRINCIPLE (bridge):
+Compressed lines read as one continuous phrase. Removed vowels
+are silent; consonants glue to the next word. The [ref:] line
+above gives intended word breaks — read across without pausing.
+The rhythm never changes: only what the voice would skip anyway.
+Rule of thumb: merge only where a syllable is actually saved.
+One-syllable function words (and, then, I, am) stay separate —
+"andthen" saves nothing and creates a reading risk.
+
+SAFE-VARIANTS PRINCIPLE (bridge):
+If a model glitches, restore the shortest readable form of the
+swallowed word (is → 's → s; "a door" → ador → adoor; every →
+evry). Priorities: keep syllable count, keep stress pattern,
+restore only mis-sung letters. Never lengthen the rhythm. Apply
+per line: "unzip one letter at a time until the glitch clears."
+Merging must not produce a different English word
+(aversion ≠ a version). If the merged form is itself a word,
+drop the leading vowel instead (a version → vrsion).
+
+AFTER-BRIDGE PRINCIPLE (final chorus):
+The final chorus repeats the words of the earlier choruses
+verbatim. What changes is delivery: belt from the first line,
+added harmony, layered vocals. Not a new text. The refrain is
+the same knowledge — the first time as a question, the last
+as a fact.
+
+NOTES:
+Bridge has no fillers — that is what makes it fast.
+Slower remix: add (oo)(ah)(mm)(oh) back into bridge.
+Faster remix: remove more vowels.
+[brackets] and [ref:] are not sung.
