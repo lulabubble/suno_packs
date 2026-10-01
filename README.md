@@ -59,6 +59,27 @@ A pack has three parts:
 
 When remixing, delete HEADER and APPENDIX. Keep WORKING LYRICS only.
 
+### What goes in a pack — and what does not
+
+A pack is a publishable artifact, not a working notebook. It carries a **minimal skeleton** of the things a reader needs to be self-contained: the remix line, the role line, the track metadata. Each of these has a **full version in this README**. The pack keeps the short form on purpose; the README keeps the long form. Do not expand the short form here, and do not copy the long form in.
+
+The three things the pack carries minimally, with their full versions in this README:
+
+1. **Remix skeleton.** One line — what to keep, what to delete, license name. Full version: "Remixers — no barriers" and "How to use a pack in Suno" in this README. Do not add link-pasting instructions, cascade handling, or attribution wording to the pack — those are README-only.
+
+2. **Role line.** One line — Creator / Critic / Operator, named but not explained. Full version: "Make your own pack" in this README. Do not add role descriptions, workflow steps, or responsibilities to the pack.
+
+3. **Track metadata.** License, repo, path, published link, structure, technique, notation, timing. This is the pack's own content and belongs here in full — but written for a reader of the track, not for the author of the process.
+
+What never goes in a pack, in any amount:
+
+- **Process notes.** Anything about the author's workflow: scope rules, compression policy, iteration numbers, test results, "operator sends Lyrics as-is", "test-1 showed", "this is a description not a command". Working notes live outside the repo.
+- **Meta-pointers.** Cross-references like "target defined in APPENDIX", "see HEADER for timing", "as noted above". If a fact is worth stating, state it where it belongs. Pointers are clutter.
+
+The test for any line in HEADER or APPENDIX: **is this the minimal skeleton of something that has a full version in this README, or is this process/meta?** If it is the minimal skeleton — keep it, do not expand it. If it is process or meta — remove it.
+
+Before publishing a pack (filling the Published link), run a cleanup pass: read HEADER and APPENDIX line by line. Expand nothing, add nothing, only remove what fits the "never" list and what exceeds the minimal skeleton.
+
 ## How to use a pack in Suno
 
 1. Open a `pack.txt`.
