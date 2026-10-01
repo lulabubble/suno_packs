@@ -1,4 +1,4 @@
-PACKAGE v1.5 (draft)
+PACKAGE v1.6 (draft)
 
 License: CC BY 4.0 — see LICENSE file in this repository.
 Lyrics © 2026 lulabubble. Licensed under CC BY 4.0.
@@ -10,8 +10,9 @@ Path: 0004_ear_to_the_shell/pack.txt
 Published: —
 Structure: I-V1-PC1-C-V2-PC2-C-B-FC-O
 
-Scope: finished, publishable material only. Working notes
-live outside the pack.
+Scope: finished material only; working notes outside the
+pack. Compression applies to APPENDIX only — never license,
+HEADER, or WORKING LYRICS.
 
 REMIX VIA SUNO: auto-links Cover/Mashup to original; header
 license URI = attribution. On-platform: nothing. If auto-link
@@ -28,9 +29,11 @@ answer (bass + shell tone in V1, error tone + buffer stutter
 in V2). Accent paradox = coastal British where water is,
 neutral English where digital harbor takes over. Phonetic
 nudge = respelling. Pre-chorus = wave. Chorus = open. Bridge
-= compression. FC = after-bridge, thesis flip; last line
-becomes two lines of call and response. Outro = submersion,
-accent dissolves last. Production as map = analog vs digital.
+= compression. FC = after-bridge, thesis flip; final line
+multi-voice call and response between two claims. Outro =
+drift — voice drifts into instrumental, instrumental fills
+the gaps, accent dissolves last. Production as map = analog
+vs digital.
 
 Notation / fillers: [brackets] and [ref:] not sung. (vowel
 hums) = filler, sung. (words) = answering voice, verse only.
@@ -40,6 +43,7 @@ voice replaces them. Bridge none. Outro none after spoken.
 
 Accent rule: coastal British = real sea. Neutral English =
 digital harbor. Shift between sections is the technique.
+Target of "neutral" defined in APPENDIX.
 
 Operator sends Lyrics as-is. Title and Style handed over
 separately at generation.
@@ -115,7 +119,7 @@ Itjustkeeps cominback
 [coastal British returns on this line only]
 [cut]
 
-[FC — belt from line 1, layered vocals, peak; coastal British returns in full; last line becomes two lines of call and response between accents]
+[FC — belt, layered, peak; coastal British returns in full; final line multi-voice call and response, two claims]
 [belt, coastal] I am the shell by the wata
 [belt, coastal] I hold the sound of everyone
 [building, coastal] The tide comes in, the tide goes out
@@ -123,7 +127,7 @@ Itjustkeeps cominback
 [neutral English, flat, left] I am the shell
 [coastal British, right] I am the wave
 
-[Outro — slow, tape hiss, hum rises; submersion: voice sinks from words to hum to silence; accent dissolves last]
+[Outro — slow, tape hiss; drift: voice drifts into instrumental, instrumental fills the gaps, accent dissolves last]
 [spoken, coastal] Put your ear here.
 [whisper, coastal] Can you hear it
 [whisper, coastal] That's the whole world
@@ -138,29 +142,29 @@ Itjustkeeps cominback
 
 APPENDIX — DELETE WHEN REMIXING
 
-PHONETIC / SAFE-VARIANTS (bridge):
-Compressed lines read as one continuous phrase. [ref:] gives
-intended word breaks. Merge only saving a syllable.
-One-syllable function words (and, then, I, am) stay apart.
-Merge must not form a different English word; if it does,
-drop the leading vowel. "asea" and "alido" = "a sea" and
-"a lido" — read as two words each. Keep syllable count and
-stress pattern; never lengthen rhythm.
+PHONETIC (bridge): compressed lines = one phrase. [ref:]
+gives breaks. Merge only saving a syllable; function words
+stay apart. No different English word; else drop leading
+vowel. "asea"/"alido" = two words each. Keep syllables and
+stress; never lengthen.
 
-ACCENT PARADOX (whole track):
-Same language, two worlds. Coastal British = real sea.
-Neutral English = digital harbor. Accent shifts with the
-water. Bridge: neutral, cracks back to coastal on last line.
-FC: coastal in full; last line call-and-response — coastal
-claims wave, neutral claims shell; not merged. Outro: accent
-dissolves last, after words float. Nudge: respell where
-British and American differ — wata, learnt, lido; "harbor"
-as counter-marker.
+ACCENT PARADOX + DRIFT: same language, two worlds. Coastal
+British = real sea. "Neutral" is an instruction; placeless
+is the accepted test-1 result (non-native, no single origin)
+— description, not a command Suno executes. Accent shifts
+with water. Bridge: neutral, cracks to coastal on last
+line. FC: final line multi-voice, two claims audibly
+distinct; if merged, reduce layers until split. Outro:
+drift — voice drifts into instrumental, instrumental fills
+gaps, accent dissolves last. Not a sink — an ear lifted
+from a shell. Silence is the shell. Meaning appears when
+listened for — technique, not defect. Nudge: wata, learnt,
+lido; "harbor" as counter-marker.
 
-ANSWERING VOICE (verse) — DIEGETIC-TO-ALGORITHMIC SHIFT:
-(word) = second diegetic presence, not an echo. V1: older
-local, coastal British, warm, knows more than the lead did
-then; instrumental answer (bass, shell tone) in same
-diegesis. V2: algorithmic — flat, neutral, hard-left, on the
-beat, repeats or distorts; replaced by digital artifact. One
-to four words per answer.
+ANSWERING VOICE (verse): (word) = second diegetic presence,
+not an echo. V1: older local, coastal British, warm, knows
+more than the lead did; instrumental answer (bass, shell
+tone) same diegesis. V2: algorithmic — flat, neutral, hard-
+left, on beat, repeats or distorts; replaced by digital
+artifact. One to four words per answer.
+
