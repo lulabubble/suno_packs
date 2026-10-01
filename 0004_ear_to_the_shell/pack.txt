@@ -1,4 +1,4 @@
-PACKAGE v1.4 (draft)
+PACKAGE v1.5 (draft)
 
 License: CC BY 4.0 — see LICENSE file in this repository.
 Lyrics © 2026 lulabubble. Licensed under CC BY 4.0.
@@ -9,6 +9,9 @@ Repo: https://github.com/lulabubble/suno_packs
 Path: 0004_ear_to_the_shell/pack.txt
 Published: —
 Structure: I-V1-PC1-C-V2-PC2-C-B-FC-O
+
+Scope: finished, publishable material only. Working notes
+live outside the pack.
 
 REMIX VIA SUNO: auto-links Cover/Mashup to original; header
 license URI = attribution. On-platform: nothing. If auto-link
@@ -37,32 +40,6 @@ voice replaces them. Bridge none. Outro none after spoken.
 
 Accent rule: coastal British = real sea. Neutral English =
 digital harbor. Shift between sections is the technique.
-
-STYLE (handed to Suno separately, not part of pack):
-Coastal British male vocal, non-rhotic, spoken word, dub
-bass, shell tone, tape hiss, spring reverb; V2 neutral
-American, flat, bit-crush, gated reverb, error tone; FC
-layered vocals, call-and-response coastal/neutral.
-
-TEST WATCHLIST (operator, before v1.5):
-Lyric-level (critic v1.3):
-1. Chorus 2 textually identical to Chorus 1 — does accent
-   drift carry, or does it read as repeat?
-2. FC last two lines — do "I am the shell" / "I am the wave"
-   split into two voices, or merge into one line?
-3. Outro — does accent survive past the words, or vanish
-   with them? If vanish, add one coastal whisper before Mmm.
-4. PC1 "I keep the ones that are worth keeping" — does the
-   tautology drag at the pull-back, or land?
-5. V1 "forecast reads it" — does the inverted logic hold
-   in delivery?
-Operational:
-6. Accent shift between V1 and V2 — audible?
-7. Bridge compression — reads at speed, or breaks?
-8. wata / learnt / lido — glitch?
-9. Submersion in outro — holds?
-10. FC call and response — separate, or merge?
-Fixes decided after test, not before.
 
 Operator sends Lyrics as-is. Title and Style handed over
 separately at generation.
@@ -162,98 +139,28 @@ Itjustkeeps cominback
 APPENDIX — DELETE WHEN REMIXING
 
 PHONETIC / SAFE-VARIANTS (bridge):
-Compressed lines read as one continuous phrase. [ref:] above
-gives intended word breaks — read across without pausing.
-Merge only where a syllable is saved. One-syllable function
-words (and, then, I, am) stay separate. Merging must not
-produce a different English word (aversion ≠ a version); if
-the merged form is itself a word, drop the leading vowel (a
-version → vrsion). "asea" and "alido" are merged forms of "a
-sea" and "a lido" — read as two words each. If a model
-glitches, restore the shortest readable form (is → 's → s;
-every → evry). Keep syllable count, keep stress pattern.
-Never lengthen the rhythm. Unzip one letter at a time.
-
-PHONETIC NUDGE (coastal British sections):
-Directive alone is not enough — Suno predicts phonemes from
-text. Respell a small number of words where British and
-American pronunciation differ, and where respelling is also
-a compression. Applied here: wata (water, drops two letters,
-marks non-rhotic R), learnt (learned), lido (public open-air
-bath, British lexis). V2 uses "harbor" (American spelling)
-as counter-marker. Do not respell words identical in both
-accents (tide, shell, sound, keep). If the model glitches,
-restore shortest readable version (wata → watah → water).
+Compressed lines read as one continuous phrase. [ref:] gives
+intended word breaks. Merge only saving a syllable.
+One-syllable function words (and, then, I, am) stay apart.
+Merge must not form a different English word; if it does,
+drop the leading vowel. "asea" and "alido" = "a sea" and
+"a lido" — read as two words each. Keep syllable count and
+stress pattern; never lengthen rhythm.
 
 ACCENT PARADOX (whole track):
 Same language, two worlds. Coastal British = real sea.
 Neutral English = digital harbor. Accent shifts with the
-water. In the bridge, accent strips to neutral and cracks
-back to coastal on the last line only. In FC, coastal
-returns in full; last line is call and response — coastal
-claims the wave, neutral claims the shell; they do not
-merge. In outro, accent dissolves last, after words are
-gone.
+water. Bridge: neutral, cracks back to coastal on last line.
+FC: coastal in full; last line call-and-response — coastal
+claims wave, neutral claims shell; not merged. Outro: accent
+dissolves last, after words float. Nudge: respell where
+British and American differ — wata, learnt, lido; "harbor"
+as counter-marker.
 
 ANSWERING VOICE (verse) — DIEGETIC-TO-ALGORITHMIC SHIFT:
-Parentheses with words = second diegetic presence, not an
-echo. V1: local, older, deeper coastal British, warm,
-unhurried, knows more than the lead did then; instrumental
-answer (bass, shell tone) in same diegesis. V2: algorithmic
-— flat, neutral English, no accent, hard-left, arrives on
-the beat, repeats or distorts; instrumental answer replaced
-by digital artifact (error tone, buffer stutter). One to
-four words per answer. If shift is not audible between V1
-and V2, technique fails. (Vowel hums) are fillers.
-
-WAVE (pre-chorus):
-Builds in a wave shape, not a straight ramp. Line 1 = one
-voice, quiet. Line 2 = two voices, octave up. Line 3 = back
-to one voice, louder and closer — the pull-back. Line 4 =
-full stack, release. The retreat in line 3 is what makes
-line 4 land. Never double the lead verbatim.
-
-AFTER-BRIDGE (final chorus):
-FC repeats earlier choruses verbatim, except last line. In
-this pack the last line is replaced by two lines of call
-and response: coastal claims "I am the wave", neutral claims
-"I am the shell". They do not merge. Delivery: belt from
-line 1, added harmony. Coastal British returns in full.
-
-SUBMERSION (outro):
-Does not conclude — sinks. Voice stops finishing words, then
-thoughts, then stops forming words at all. Hums and pauses
-carry the content. Accent dissolves last, after words are
-gone. Never lengthen. Track feels like an ear slowly lifted
-from a shell.
-
-PRODUCTION AS MAP (all sections):
-Section headers carry production, not melody. Coastal
-sections: tape hiss, spring reverb, analog warmth, shell
-tone. Neutral sections: bit-crush, gated reverb, compression
-artifacts, error tone. Listener hears where they are before
-parsing words. If V1 and V2 sound like the same room,
-technique fails.
-
-DEFERRED (post-test, not fixed preemptively):
-- Chorus 2 is textually identical to Chorus 1 by design.
-  Drift is a bet on delivery, not on words. If the test
-  shows no drift, change one word in Chorus 2 ("sound" →
-  "noise"), keep "wata" as anchor.
-- Outro accent may vanish with words, not after them. If
-  the test shows this, add one coastal whisper before the
-  first hum.
-- PC1 "I keep the ones that are worth keeping" — tautology
-  kept for the pull-back of the wave. If the test shows it
-  drags, drop "that are".
-- V1 "forecast reads it" — inverted logic kept. If the test
-  shows it breaks, replace with "the way the forecast
-  reads the sea".
-- Bridge compression at the limit. If it breaks at speed,
-  unzip one letter at a time, starting with
-  "Citythatwanted asea builtalido".
-
-NOTES:
-Bridge has no fillers — that's what makes it fast.
-[brackets] and [ref:] are not sung.
-[spoken] is spoken. [hum] is hummed, not word.
+(word) = second diegetic presence, not an echo. V1: older
+local, coastal British, warm, knows more than the lead did
+then; instrumental answer (bass, shell tone) in same
+diegesis. V2: algorithmic — flat, neutral, hard-left, on the
+beat, repeats or distorts; replaced by digital artifact. One
+to four words per answer.
