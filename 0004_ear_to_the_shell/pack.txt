@@ -1,0 +1,259 @@
+PACKAGE v1.4 (draft)
+
+License: CC BY 4.0 — see LICENSE file in this repository.
+Lyrics © 2026 lulabubble. Licensed under CC BY 4.0.
+https://creativecommons.org/licenses/by/4.0/
+Changes: original work; remixers indicate modifications
+per CC BY 4.0 §3(a)(1)(B).
+Repo: https://github.com/lulabubble/suno_packs
+Path: 0004_ear_to_the_shell/pack.txt
+Published: —
+Structure: I-V1-PC1-C-V2-PC2-C-B-FC-O
+
+REMIX VIA SUNO: auto-links Cover/Mashup to original; header
+license URI = attribution. On-platform: nothing. If auto-link
+drops mid-cascade, use Suno's Share short link. Off-platform:
+credit "lulabubble" + license link. CC BY 4.0.
+
+3 parts: HEADER / WORKING LYRICS / APPENDIX. Remix: delete
+HEADER + APPENDIX, keep WORKING LYRICS only. Attribution
+still required.
+
+Technique: intro spoken frame, coastal British. Verse =
+answering voice, diegetic-to-algorithmic shift; instrumental
+answer (bass + shell tone in V1, error tone + buffer stutter
+in V2). Accent paradox = coastal British where water is,
+neutral English where digital harbor takes over. Phonetic
+nudge = respelling. Pre-chorus = wave. Chorus = open. Bridge
+= compression. FC = after-bridge, thesis flip; last line
+becomes two lines of call and response. Outro = submersion,
+accent dissolves last. Production as map = analog vs digital.
+
+Notation / fillers: [brackets] and [ref:] not sung. (vowel
+hums) = filler, sung. (words) = answering voice, verse only.
+[spoken] = spoken. [hum] = hummed. Intro spoken, no fillers.
+Pre-chorus keeps fillers. Chorus none. Verse = answering
+voice replaces them. Bridge none. Outro none after spoken.
+
+Accent rule: coastal British = real sea. Neutral English =
+digital harbor. Shift between sections is the technique.
+
+STYLE (handed to Suno separately, not part of pack):
+Coastal British male vocal, non-rhotic, spoken word, dub
+bass, shell tone, tape hiss, spring reverb; V2 neutral
+American, flat, bit-crush, gated reverb, error tone; FC
+layered vocals, call-and-response coastal/neutral.
+
+TEST WATCHLIST (operator, before v1.5):
+Lyric-level (critic v1.3):
+1. Chorus 2 textually identical to Chorus 1 — does accent
+   drift carry, or does it read as repeat?
+2. FC last two lines — do "I am the shell" / "I am the wave"
+   split into two voices, or merge into one line?
+3. Outro — does accent survive past the words, or vanish
+   with them? If vanish, add one coastal whisper before Mmm.
+4. PC1 "I keep the ones that are worth keeping" — does the
+   tautology drag at the pull-back, or land?
+5. V1 "forecast reads it" — does the inverted logic hold
+   in delivery?
+Operational:
+6. Accent shift between V1 and V2 — audible?
+7. Bridge compression — reads at speed, or breaks?
+8. wata / learnt / lido — glitch?
+9. Submersion in outro — holds?
+10. FC call and response — separate, or merge?
+Fixes decided after test, not before.
+
+Operator sends Lyrics as-is. Title and Style handed over
+separately at generation.
+
+Timing: ~4:10. Bridge ~0:30. FC ~0:40, peak. Outro ~0:35.
+
+WORKING LYRICS
+
+[Intro — spoken, dry, close-mic, coastal British, forecast cadence]
+[spoken] Come here. Put your ear to this.
+[spoken] Do you hear it.
+[spoken] That's the whole city.
+[spoken] I've been listening to it since I was a kid.
+[spoken] I can still hear the voice on the radio reading it.
+
+[V1 — coastal British, close-mic, dry. Answer: older local, right-panned. Bass and shell tone answer]
+[lead] I grew up where the tide decides the day (Tide decides)
+[lead] Boats come in with strangers, leave with stories (With stories)
+[lead] I learnt to sift what people bring ashore (Sift it)
+[lead] I read the wata the way the forecast reads it (Slow and low)
+[bass line answers, melodic, dubwise, 3 seconds]
+[shell tone rises, sustained, 3 seconds]
+
+[PC1 — wave. Coastal British throughout]
+[single voice, quiet] And every wave brings a different voice (ah)
+[2 voices, octave up] And every voice brings a different world (oh)
+[single voice, louder] And I keep the ones that are worth keeping (ah)
+[full stack, unison] I am the shell and the sea is my home (oh)
+
+[Chorus — open, warm, wide reverb, coastal British]
+[wide] I am the shell by the wata
+[belt] I hold the sound of everyone
+[soft] The tide comes in, the tide goes out
+[build] I keep what no one else would keep
+
+[V2 — neutral English, flat, close-mic, dry. Answer: algorithmic, no accent, hard-left, on the beat]
+[lead] Then I found a harbor made of glass and light (Glass and light)
+[lead] It promised me a new world, a new America (New world)
+[lead] Everybody shouting, nobody hearing (Nobody)
+[lead] The echo came back louder than the voice (Louder)
+[error tone, brief, answering, 2 seconds]
+[buffer stutter, clipped, 2 seconds]
+
+[PC2 — wave, colder texture, accent slipping toward neutral]
+[single voice, quiet] And every feed brings a different voice (ah)
+[2 voices, octave up] And every voice says the same thing twice (oh)
+[single voice, louder] And I keep hearing my own words come back (ah)
+[full stack, unison] I am the shell in a room with no sea (oh)
+
+[Chorus — ambiguous accent: wata stays, everything else drifts]
+[wide] I am the shell by the wata
+[belt] I hold the sound of everyone
+[soft] The tide comes in, the tide goes out
+[build] I keep what no one else would keep
+
+[Bridge — fast, dry, no reverb; accent neutral, cracks back to coastal on last line]
+[fast, staccato]
+[ref: The fishermen, the tourists, the runaways]
+Fishermen tourists runaways
+[ref: The woman who left, the man who stayed]
+Womanwholeft manwhostayed
+[ref: The city that wanted a sea and built a lido]
+Citythatwanted asea builtalido
+[ref: The screen that wanted my voice and gave me noise]
+Screenthatwanted myvoice gavemenoise
+[ref: The shell that was always a wave in disguise]
+Shellthatwas alwaysawave indisguise
+[slower, softer]
+[ref: And the water doesn't care where it lands]
+And thewata doesntcare whereitlands
+[ref: It just keeps coming back]
+Itjustkeeps cominback
+[coastal British returns on this line only]
+[cut]
+
+[FC — belt from line 1, layered vocals, peak; coastal British returns in full; last line becomes two lines of call and response between accents]
+[belt, coastal] I am the shell by the wata
+[belt, coastal] I hold the sound of everyone
+[building, coastal] The tide comes in, the tide goes out
+[bigger, coastal] I am the wave, I am the shell
+[neutral English, flat, left] I am the shell
+[coastal British, right] I am the wave
+
+[Outro — slow, tape hiss, hum rises; submersion: voice sinks from words to hum to silence; accent dissolves last]
+[spoken, coastal] Put your ear here.
+[whisper, coastal] Can you hear it
+[whisper, coastal] That's the whole world
+[trailing, coastal] That's the whole... world...
+[hum, merging with shell tone] Mmm
+[whisper, accent slipping] ...the whole...
+[hum, lower] Ooo
+[pause, 2 seconds] ...
+[hum, barely there] Mmm...
+[pause, 2 seconds] ...
+[absolute silence]
+
+APPENDIX — DELETE WHEN REMIXING
+
+PHONETIC / SAFE-VARIANTS (bridge):
+Compressed lines read as one continuous phrase. [ref:] above
+gives intended word breaks — read across without pausing.
+Merge only where a syllable is saved. One-syllable function
+words (and, then, I, am) stay separate. Merging must not
+produce a different English word (aversion ≠ a version); if
+the merged form is itself a word, drop the leading vowel (a
+version → vrsion). "asea" and "alido" are merged forms of "a
+sea" and "a lido" — read as two words each. If a model
+glitches, restore the shortest readable form (is → 's → s;
+every → evry). Keep syllable count, keep stress pattern.
+Never lengthen the rhythm. Unzip one letter at a time.
+
+PHONETIC NUDGE (coastal British sections):
+Directive alone is not enough — Suno predicts phonemes from
+text. Respell a small number of words where British and
+American pronunciation differ, and where respelling is also
+a compression. Applied here: wata (water, drops two letters,
+marks non-rhotic R), learnt (learned), lido (public open-air
+bath, British lexis). V2 uses "harbor" (American spelling)
+as counter-marker. Do not respell words identical in both
+accents (tide, shell, sound, keep). If the model glitches,
+restore shortest readable version (wata → watah → water).
+
+ACCENT PARADOX (whole track):
+Same language, two worlds. Coastal British = real sea.
+Neutral English = digital harbor. Accent shifts with the
+water. In the bridge, accent strips to neutral and cracks
+back to coastal on the last line only. In FC, coastal
+returns in full; last line is call and response — coastal
+claims the wave, neutral claims the shell; they do not
+merge. In outro, accent dissolves last, after words are
+gone.
+
+ANSWERING VOICE (verse) — DIEGETIC-TO-ALGORITHMIC SHIFT:
+Parentheses with words = second diegetic presence, not an
+echo. V1: local, older, deeper coastal British, warm,
+unhurried, knows more than the lead did then; instrumental
+answer (bass, shell tone) in same diegesis. V2: algorithmic
+— flat, neutral English, no accent, hard-left, arrives on
+the beat, repeats or distorts; instrumental answer replaced
+by digital artifact (error tone, buffer stutter). One to
+four words per answer. If shift is not audible between V1
+and V2, technique fails. (Vowel hums) are fillers.
+
+WAVE (pre-chorus):
+Builds in a wave shape, not a straight ramp. Line 1 = one
+voice, quiet. Line 2 = two voices, octave up. Line 3 = back
+to one voice, louder and closer — the pull-back. Line 4 =
+full stack, release. The retreat in line 3 is what makes
+line 4 land. Never double the lead verbatim.
+
+AFTER-BRIDGE (final chorus):
+FC repeats earlier choruses verbatim, except last line. In
+this pack the last line is replaced by two lines of call
+and response: coastal claims "I am the wave", neutral claims
+"I am the shell". They do not merge. Delivery: belt from
+line 1, added harmony. Coastal British returns in full.
+
+SUBMERSION (outro):
+Does not conclude — sinks. Voice stops finishing words, then
+thoughts, then stops forming words at all. Hums and pauses
+carry the content. Accent dissolves last, after words are
+gone. Never lengthen. Track feels like an ear slowly lifted
+from a shell.
+
+PRODUCTION AS MAP (all sections):
+Section headers carry production, not melody. Coastal
+sections: tape hiss, spring reverb, analog warmth, shell
+tone. Neutral sections: bit-crush, gated reverb, compression
+artifacts, error tone. Listener hears where they are before
+parsing words. If V1 and V2 sound like the same room,
+technique fails.
+
+DEFERRED (post-test, not fixed preemptively):
+- Chorus 2 is textually identical to Chorus 1 by design.
+  Drift is a bet on delivery, not on words. If the test
+  shows no drift, change one word in Chorus 2 ("sound" →
+  "noise"), keep "wata" as anchor.
+- Outro accent may vanish with words, not after them. If
+  the test shows this, add one coastal whisper before the
+  first hum.
+- PC1 "I keep the ones that are worth keeping" — tautology
+  kept for the pull-back of the wave. If the test shows it
+  drags, drop "that are".
+- V1 "forecast reads it" — inverted logic kept. If the test
+  shows it breaks, replace with "the way the forecast
+  reads the sea".
+- Bridge compression at the limit. If it breaks at speed,
+  unzip one letter at a time, starting with
+  "Citythatwanted asea builtalido".
+
+NOTES:
+Bridge has no fillers — that's what makes it fast.
+[brackets] and [ref:] are not sung.
+[spoken] is spoken. [hum] is hummed, not word.
