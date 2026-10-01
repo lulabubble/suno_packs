@@ -3,11 +3,9 @@ PACKAGE v1.6 (draft)
 License: CC BY 4.0 — see LICENSE file in this repository.
 Lyrics © 2026 lulabubble. Licensed under CC BY 4.0.
 https://creativecommons.org/licenses/by/4.0/
-Changes: original work; remixers indicate modifications
-per CC BY 4.0 §3(a)(1)(B).
 Repo: https://github.com/lulabubble/suno_packs
 Path: 0004_ear_to_the_shell/pack.txt
-Published: —
+Published: https://suno.com/s/0vrIKNc6SWzMpKr7
 Structure: I-V1-PC1-C-V2-PC2-C-B-FC-O
 
 Scope: finished material only; working notes outside the
