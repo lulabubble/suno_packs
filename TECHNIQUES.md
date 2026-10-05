@@ -191,7 +191,7 @@ Razor: listener, headphones, nothing else. Only techniques the listener can hear
 - **0003_everything_wrong** — Compression (bridge), Fillers (pre-chorus), Bracketed directions, Spoken frame (intro, outro), Answering voice (verse, coach), Voice stacking (pre-chorus), After-bridge final chorus, Understatement / decay (outro).
 - **0004_ear_to_the_shell** — Compression (bridge), Fillers (pre-chorus), Bracketed directions, Spoken frame (intro, outro), Answering voice (verse), Voice stacking (pre-chorus), Wave (pre-chorus), After-bridge final chorus, Drift (outro), Accent paradox (song-wide).
 - **0005_twice_daily** — Compression (bridge), Fillers (pre-chorus), Bracketed directions, Spoken frame (intro, outro), Answering voice (verse, therapist), Voice stacking (pre-chorus), Chorus rewrite (chorus 2), After-bridge final chorus, Collapse (final chorus), Understatement / decay (outro), Diegetic silence (V2 end).
-- 
+
 Not listed per pack — no audible effect: `[ref:]` reference layer, phonetic safe variants, timing targets, remix-safe structure.
 
 One indirect case: `[ref:]` reference layer. The model never sings it, but seeing the original words underneath helps it voice the compressed bridge more accurately. Not audible on its own, felt in the result.
