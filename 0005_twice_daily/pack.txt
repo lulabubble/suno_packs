@@ -1,0 +1,179 @@
+
+PACKAGE v1.0
+
+License: CC BY 4.0 — see LICENSE file in this repository.
+Lyrics © 2026 lulabubble. Licensed under CC BY 4.0.
+https://creativecommons.org/licenses/by/4.0/
+Repo: https://github.com/lulabubble/suno_packs
+Path: 0005_twice_daily/pack.txt
+Published: —
+Structure: I-V1-PC1-C-V2-PC2-C-B-FC-O
+
+REMIX VIA SUNO: auto-links Cover/Mashup to original; header
+license URI = attribution. On-platform: nothing. If auto-link
+drops mid-cascade, use Suno's Share short link. Off-platform:
+credit "lulabubble" + license link. CC BY 4.0.
+
+3 parts: HEADER / WORKING LYRICS / APPENDIX. Remix: delete
+HEADER + APPENDIX, keep WORKING LYRICS only.
+
+Technique: intro spoken frame. Verse = answering voice,
+diegetic and cold; V2 ends with the answering voice's
+disappearance. Pre-chorus = voice stacking. Chorus = open.
+Chorus 2 rewrites its last two lines. Bridge = compression.
+FC = collapse: peak drops into drone, thesis returns spoken
+and quiet. Outro = understatement decay.
+
+Notation / fillers: [brackets] and [ref:] not sung. (vowel
+hums: oo, ah, mm, oh) = filler, sung. (words) = answering
+voice, verse only. [spoken] = spoken. Intro spoken, no
+fillers. Pre-chorus keeps fillers. Chorus none. Verse =
+answering voice replaces them. Bridge none. Outro none after
+the spoken frame.
+
+Roles: Creator (owns the track), Operator (runs Suno),
+Critic (reviews).
+
+Timing: ~4:00. Bridge ~0:30 (~12.5%). FC ~0:40, peak.
+Outro ~0:25 (decay).
+
+WORKING LYRICS
+
+[Intro — spoken, dry, close-mic, no reverb, patient, past tense, evening room tone]
+[spoken] My therapist gave me a playlist.
+[spoken] She said take it twice a day. Morning and evening.
+[spoken] For fourteen days. Then come back.
+[spoken] I went back. But not the way she meant.
+
+[V1 — lead: patient, close-mic, dry, center. Answer: therapist, cold, algorithmic, flat, right-panned]
+[lead] I walked in and I said I don't sleep anymore (How long)
+[lead] I said a year, maybe two, I stopped counting (And at night)
+[lead] I said I scroll, I listen, I wait for morning (What else)
+[lead] She wrote it down and looked at me and said (We begin)
+
+[PC1 — rising, voices accumulate, one per line. All voices cold, algorithmic, same actor, layered]
+[single voice, close-mic] Take Track 3 in the morning with water (ah)
+[2 voices, one an octave up] Take Track 3 in the evening with tea (oh)
+[3 voices, spread left-right] Take it twice daily, fourteen days (ah)
+[full stack, unison] Then come back and tell me how you feel (oh)
+
+[Chorus — open, warm, wide reverb, thesis stated once]
+[wide] Twice daily, morning and evening
+[belt] Twice daily, for fourteen days
+[soft] The pill is a song, the song is a pill
+[build] And I take it, and I take it, and I take it
+
+[V2 — lead: patient, close-mic, dry, center. Answer: therapist, cold, algorithmic, flat, right-panned; disappears mid-verse]
+[lead] I put my headphones on at seven a.m. (Lie back)
+[lead] I let the third track play into my skull (Continue)
+[lead] And something loosened, something gave (Better)
+[lead] And I thought — I can make this myself
+[silence — answering voice gone]
+
+[PC2 — rising, patient voice bleeding into stack, colder texture; the narrator now speaks in the therapist's register]
+[single voice, quiet] And I opened the app and I typed what I felt (ah)
+[2 voices, octave up] And I typed what I felt and I pressed generate (oh)
+[3 voices, spread left-right] And the app gave me back a version of me (ah)
+[full stack, unison] And I liked it better than the version I was (oh)
+
+[Chorus 2 — open, warm, wide reverb; first two lines verbatim, last two rewritten: narrator takes the prescription]
+[wide] Twice daily, morning and evening
+[belt] Twice daily, for fourteen days
+[soft] I swallow the chorus, I swallow the verse
+[build] And I take it, and I take it, and I make it
+
+[Bridge — fast, dry, no reverb; self-medication spiral; compressed delivery]
+[fast, staccato]
+[ref: One in the morning, one at noon, one at night]
+Onein mornin oneatnoon oneatnight
+[ref: Two in the morning when morning doesn't come]
+Twoin mornin whenmornin doesntcome
+[ref: Skip the therapist, skip the wait, skip the cost]
+Skiptherapist skipthwait skipthcost
+[ref: Generate a version of me that sleeps]
+Generateavrsion ofme thatsleeps
+[ref: Generate a version of me that's fine]
+Generateavrsion ofme thatsfine
+[ref: Play it loud enough to drown the room]
+Playit loudenough todrownroom
+[ref: Play it twice, play it thrice, play it till the numbers blur]
+Playit twice playit thrice playit tillnumbersblur
+[ref: The pills are free, the pills are mine, the pills don't judge]
+Thepills arefree thepills aremine thepills dontjudge
+[ref: I am the doctor and the patient and the drug]
+I am thdoctor anthpatient anthdrug
+[cut]
+
+[FC — belt from first line, layered vocals, peak; then collapse: drums cut, drone only, thesis returns spoken and quiet]
+[belt] Twice daily, morning and evening
+[belt] Twice daily, for fourteen days
+[building] The pill is a song, the song is a pill
+[bigger] And I take it, and I take it, and I take it
+[drop — drums cut, synth drone only]
+[spoken, quiet, cold, under the drone] I am the doctor and the patient and the drug
+
+[Outro — slow, tape hiss, fade; spoken frame return, then understatement decay]
+[spoken] I don't go to the office anymore.
+[whisper] I make my own now
+[trailing] I make my own... now... now...
+[decay] I make my own...
+[barely] I make...
+[pause] ...
+[absolute silence]
+
+APPENDIX — DELETE WHEN REMIXING
+
+PHONETIC / SAFE-VARIANTS (bridge): compressed lines = one
+phrase; [ref:] gives word breaks, read across without
+pausing. Merge only saving a syllable; function words (and,
+then, I, am) stay apart. Merged form must not be a different
+English word — else drop leading vowel (a version → vrsion).
+Glitch fix: restore the shortest readable form (is → 's → s;
+every → evry). Keep syllables and stress; never lengthen.
+Unzip one letter at a time.
+
+ANSWERING VOICE (verse): (word) = second diegetic presence,
+not an echo. Answers, extends, or contradicts — never
+verbatim. One to four words; different register or pan. In
+V1 the voice is the therapist — cold, algorithmic, flat,
+right-panned. It does not warm.
+
+VOICE INHERITANCE (V2 → PC2): the answering voice
+disappears at the end of V2. From that point the narrator
+speaks in the therapist's register — cold, flat, algorithmic
+— because the narrator has become the prescriber. Same tone,
+new mouth. The voice does not return.
+
+DIEGETIC SILENCE (V2 end): [silence — answering voice gone]
+is a direction, not a lyric. The pause where the therapist
+would have answered is the last appearance of the therapist.
+
+VOICE STACKING (pre-chorus): build by adding voices, not
+volume. Line 1 = one voice; each next adds distinct voices
+(register, pan, echo). Last line = full unison. Never double
+the lead verbatim. In PC1 the stack stays cold and
+algorithmic — same actor layered. In PC2 the stack keeps
+that register after it has been inherited.
+
+CHORUS REWRITE (chorus 2): chorus 2 repeats the first two
+lines verbatim; the last two lines are rewritten. The
+narrator takes the prescription into his own hands: "the
+pill is a song" becomes "I swallow the chorus"; "I take it"
+becomes "I make it". Delivery unchanged — the change is in
+the text alone.
+
+COLLAPSE (final chorus): FC belts from the first line as
+usual, then drops — drums cut, synth drone only — and the
+thesis returns spoken, quiet, cold, under the drone. Peak
+does not resolve; it collapses into the thesis. Never
+lengthen the drop; silence inside the drone is the point.
+
+UNDERSTATEMENT (outro): outro does not conclude — it
+decays. Voice stops finishing words, lines, thoughts.
+Silence becomes content. Cut where the voice would run out.
+Never lengthen. Returning fragments return smaller. Read as
+continuous decay.
+
+NOTES: bridge has no fillers. [brackets] and [ref:] are not
+sung.
+
