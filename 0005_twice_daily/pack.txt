@@ -123,57 +123,46 @@ I am thdoctor anthpatient anthdrug
 
 APPENDIX — DELETE WHEN REMIXING
 
-PHONETIC / SAFE-VARIANTS (bridge): compressed lines = one
-phrase; [ref:] gives word breaks, read across without
-pausing. Merge only saving a syllable; function words (and,
-then, I, am) stay apart. Merged form must not be a different
-English word — else drop leading vowel (a version → vrsion).
-Glitch fix: restore the shortest readable form (is → 's → s;
-every → evry). Keep syllables and stress; never lengthen.
-Unzip one letter at a time.
+PHONETIC / SAFE-VARIANTS: compressed lines = one phrase;
+[ref:] gives word breaks, read across without pausing. Merge
+only to save a syllable; function words (and, then, I, am)
+stay apart. Merged form must not be a different English word
+— else drop leading vowel (a version → vrsion). Glitch fix:
+restore shortest readable form (is → 's → s; every → evry).
+Keep syllables and stress; never lengthen. Unzip one letter
+at a time.
 
-ANSWERING VOICE (verse): (word) = second diegetic presence,
-not an echo. Answers, extends, or contradicts — never
-verbatim. One to four words; different register or pan. In
-V1 the voice is the therapist — cold, algorithmic, flat,
-right-panned. It does not warm.
+ANSWERING VOICE (verse): (word) = second presence, not echo.
+Answers, extends, or contradicts — never verbatim. One to
+four words; different register/pan. In V1 it is the
+therapist: cold, algorithmic, flat, right-panned. Does not
+warm.
 
-VOICE INHERITANCE (V2 → PC2): the answering voice
-disappears at the end of V2. From that point the narrator
-speaks in the therapist's register — cold, flat, algorithmic
-— because the narrator has become the prescriber. Same tone,
-new mouth. The voice does not return.
-
-DIEGETIC SILENCE (V2 end): [silence — answering voice gone]
-is a direction, not a lyric. The pause where the therapist
-would have answered is the last appearance of the therapist.
+VOICE INHERITANCE / DIEGETIC SILENCE (V2 end): the voice
+disappears. [silence — answering voice gone] is a direction,
+not a lyric; the pause is the therapist's last appearance.
+From then the narrator speaks in the therapist's register —
+cold, flat, algorithmic — now the prescriber. Same tone, new
+mouth. No return.
 
 VOICE STACKING (pre-chorus): build by adding voices, not
 volume. Line 1 = one voice; each next adds distinct voices
 (register, pan, echo). Last line = full unison. Never double
-the lead verbatim. In PC1 the stack stays cold and
-algorithmic — same actor layered. In PC2 the stack keeps
-that register after it has been inherited.
+lead verbatim. PC1 = same actor layered, in therapist's
+register. PC2 keeps it after inheritance.
 
-CHORUS REWRITE (chorus 2): chorus 2 repeats the first two
-lines verbatim; the last two lines are rewritten. The
-narrator takes the prescription into his own hands: "the
-pill is a song" becomes "I swallow the chorus"; "I take it"
-becomes "I make it". Delivery unchanged — the change is in
-the text alone.
+CHORUS REWRITE (chorus 2): first two lines verbatim; last
+two rewritten. Narrator takes the prescription: pill = song
+→ I swallow the chorus; I take it → I make it. Delivery
+unchanged — change is in text alone.
 
-COLLAPSE (final chorus): FC belts from the first line as
-usual, then drops — drums cut, synth drone only — and the
-thesis returns spoken, quiet, cold, under the drone. Peak
-does not resolve; it collapses into the thesis. Never
-lengthen the drop; silence inside the drone is the point.
+COLLAPSE (FC): belts from line 1, then drops — drums cut,
+drone only — thesis returns spoken, quiet, cold. Peak does
+not resolve; collapses into the thesis. Never lengthen the
+drop; silence inside the drone is the point.
 
-UNDERSTATEMENT (outro): outro does not conclude — it
-decays. Voice stops finishing words, lines, thoughts.
-Silence becomes content. Cut where the voice would run out.
-Never lengthen. Returning fragments return smaller. Read as
-continuous decay.
-
-NOTES: bridge has no fillers. [brackets] and [ref:] are not
-sung.
-
+UNDERSTATEMENT (outro): outro does not conclude — it decays.
+Voice stops finishing words, lines, thoughts. Silence
+becomes content. Cut where the voice would run out. Never
+lengthen. Fragments shrink. Read as decay. Bridge has no
+fillers; [brackets] and [ref:] not sung.
