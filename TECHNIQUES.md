@@ -179,3 +179,17 @@ Companion to the packs in this repository. Each pack keeps a technique to a line
 | Phonetic safe variants | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Timing targets | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Remix-safe structure | ✓ | ✓ | ✓ | ✓ | ✓ |
+
+## Techniques by pack
+
+Same matrix, transposed. One line per pack.
+
+Razor: listener, headphones, nothing else. Only techniques the listener can hear and name are listed — what a remixer would actually change. Notation helpers and post-generation rules are not here; they live in the pack header and appendix.
+
+- **0001_crimson_sunrise** — Compression (bridge), Fillers (all but bridge), Bracketed directions.
+- **0002_two_doors** — Compression (bridge), Fillers (all but bridge), Bracketed directions, Voice stacking (pre-chorus), After-bridge final chorus, Understatement / decay (outro).
+- **0003_everything_wrong** — Compression (bridge), Fillers (pre-chorus), Bracketed directions, Spoken frame (intro, outro), Answering voice (verse, coach), Voice stacking (pre-chorus), After-bridge final chorus, Understatement / decay (outro).
+- **0004_ear_to_the_shell** — Compression (bridge), Fillers (pre-chorus), Bracketed directions, Spoken frame (intro, outro), Answering voice (verse), Voice stacking (pre-chorus), Wave (pre-chorus), After-bridge final chorus, Drift (outro), Accent paradox (song-wide).
+- **0005_twice_daily** — Compression (bridge), Fillers (pre-chorus), Bracketed directions, Spoken frame (intro, outro), Answering voice (verse, therapist), Voice stacking (pre-chorus), Chorus rewrite (chorus 2), After-bridge final chorus, Collapse (final chorus), Understatement / decay (outro), Diegetic silence (V2 end).
+- 
+Not listed per pack — no audible effect: `[ref:]` reference layer, phonetic safe variants, timing targets, remix-safe structure.
