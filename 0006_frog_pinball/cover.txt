@@ -1,0 +1,78 @@
+Suno Pack v9 — copy-paste ready
+
+Field 1 — TITLE:
+
+```
+Frog Pinball (12-Bit Deconstructed UKG, 8-Bit Arcade, 132→144 BPM)
+```
+
+Field 2 — STYLE (~890 characters):
+
+```
+Deconstructed UK Garage, 2-step, 55% swing, 132 to 144 BPM pivot in bridge, 132 outro. 12-bit lo-fi texture, SP-1200 crunch, A minor, Dorian color. Verse kick: frog-hop double-hop on 1.75 and 2.5 except bars 3 and 7. Chorus kick: syncopated with 1.25 accent, chorus 2 denser than chorus 1. Ghost snares 0.75 to 3.25. Hats alternate bar to bar: verse 8ths to swung 16ths, chorus swung 16ths to triplet shuffle. Deep elastic sub on every downbeat, 12% amplitude croak, springy octave bass accents. Chords Am7 Dm7 G7 Cmaj, muted offbeat reggae chord stabs, rave stabs on bars 1, 3, 5, 7 in chorus 2, bars 4 and 8 in chorus 1. Square-wave arcade arpeggio lead, A minor pentatonic, alternating ascending and descending, echo tails. 8-bit arcade accents: frog quack rib-bit, bumper sweep, coin blip, tilt noise. Instrumental, no full vocals, chopped pitched English whisper fragments with dub delay. Soft bells, granular texture, IR reverb, wide stereo.
+```
+
+Field 3 — LYRICS:
+
+```
+[Instrumental]
+
+[Intro]
+[4 bars, 132 BPM]
+[Warm evolving pad, granular texture clicks, sparse whisper fragments, quiet pinball coin teaser on bar 2, distant frog quack tease on bar 4]
+[Low sub drone 55 Hz with slow amplitude croak, no drums]
+[Bell chime 440 Hz at 1.5 seconds from start]
+
+[Verse]
+[8 bars, 132 BPM — bars 1-4 sparse intro-verse, bars 5-8 developed]
+[Verse kick: frog-hop double-hop on 1.75 and 2.5 in bars 1, 2, 4, 5, 6, 8; bars 3 and 7 without 1.75. Ghost snares 0.75 to 3.25]
+[Verse hats flip between 8ths on bars 1, 3, 5, 7 and swung 16ths on bars 2, 4, 6, 8]
+[Steady low sub on every downbeat, core bass riff, no upper-bass accent]
+[Whisper fragments on bars 1, 3, 5, 7, coin accents on bars 2 and 6]
+[Warm chord stabs enter at bar 5, muted reggae chord hint at bar 6]
+
+[Chorus 1]
+[8 bars, 132 BPM]
+[Chorus 1 kick: syncopated with 1.25 accent, 4-6 hits per bar, distinct from verse]
+[Chorus hats switch between swung 16ths on bars 1, 3, 5, 7 and triplet shuffle on bars 2, 4, 6, 8. Ride cymbal]
+[Steady low sub, core bass riff, one octave-jump upper-bass accent at 1.5]
+[Pinball arpeggio: square-wave ascending on bars 1, 3, 5, 7 at 2.0 beat, bar 5 with F#5 tension, descending on bars 2, 4, 6, 8]
+[F#5 tension on bar 5, resolving to E5]
+[Warm stabs, muted offbeat reggae chord stabs on bars 2 and 6, first frog quack accents, dub delay enters]
+[Two rave stabs, on bars 4 and 8]
+[Echo tails on bar 8 at 3.75 beat]
+[Whisper chops with dotted-8th dub delay]
+
+[Bridge]
+[6 bars — 132 to 144 BPM pivot]
+[Kick stutter 4 into 8 into 16 into 32 into 32 plus fill, then release]
+[Snare roll 16ths, escalating fill 8 into 16 in last two bars]
+[Rising sub bass: 55, 61.74, 65.41, 73.42, 82.41 Hz over bars 1-5, all in key]
+[Bar 6: frog croak sub 58 Hz with 15 Hz pulse, replaces rising sub]
+[Noise riser, metal tilt, arcade bumper, frog quack solo 2 to 3 rib-bit hits]
+[Silence gap just before chorus 2]
+
+[Chorus 2]
+[8 bars, 144 BPM — PEAK]
+[Chorus 2 kick: denser than chorus 1, 6-7 hits per bar, extra syncopation at 1.75, 2.0, 3.0, 3.25, 3.5 depending on bar, still with 1.25 accent]
+[Hats: same as chorus 1, swung 16ths on bars 1, 3, 5, 7, triplet shuffle on bars 2, 4, 6, 8. Ride cymbal]
+[Bass: steady low sub on downbeat plus 4-note riff, 5 events per bar]
+[Core riff, minor 7th upper-bass accent at 1.5, sub accent at 3.5 on bars 2, 4, 6, 8]
+[Pinball arpeggio octave-up peak with F#5 tension on bar 5, resolving to E5, echo tails at 3.75 on bars 2, 4, 6, 8]
+[Rave stabs on bars 1, 3, 5, 7, muted offbeat reggae chord stabs on bars 2, 4, 6, 8, dub delay wet 0.30]
+[Bell chime 660 Hz at 1.15 beats from bar 1 start]
+[Frog croak sub transition at bar 8 beat 3.0]
+
+[Outro]
+[8 bars — 144 to 132 BPM pivot]
+[Fade to warm evolving pad, granular texture, fade to silence]
+[Steady low sub fading, sparse sub notes at 0.0 and 2.5]
+[Warm chord stabs dim]
+[Whisper fragments fading]
+[Bell chime 330 Hz at bar 8 beat 1, game-over quack tease at bar 8 beat 3.5]
+[Fade over 2.5 seconds]
+
+[End]
+```
+
+
