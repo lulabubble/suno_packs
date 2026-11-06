@@ -24,4 +24,4 @@ https://suno.com/s/FuUUGS53ECdnHgLa
 
 ## Discord blurb (copy the line below)
 
-Frog Pinball — 12-bit deconstructed UKG with 8-bit arcade accents, frog-hop kicks, croaking elastic sub, square-wave pinball arpeggio, dub-reggae chord stabs, bells and pinball FX. 132 -> 144 BPM. Generated from Python source, bundled in the pack. https://suno.com/s/FuUUGS53ECdnHgLa
+This pack is a pair: Python source that generates the full instrumental, and a cover prompt written against that exact source. The point is not to match a vibe, but to translate — the sound design inside the cover spells out, in Suno-readable language, the musical idea and the mix already encoded in code. Structure, rhythm grid, bass behaviour, harmonic voicing, 8-bit accents, dub delay, reverb space — each one is described in the cover because each one lives in the source. Run the script, get the instrumental. Feed the cover to Suno, get a cover that actually reflects what the code was doing, not a guess at it.
